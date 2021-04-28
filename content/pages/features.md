@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Explore Properties
-    subtitle: Features Page Demo
+    subtitle: List of Properties for rent
     background_color: primary
   - type: features_section
     features:
