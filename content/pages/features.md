@@ -139,8 +139,7 @@ sections:
           and prompt in answering queries.
 
 
-          **Nathaniel** (via [Airbnb](bit.ly/CPTownhouseB2)), *B2 Townhouse
-          Guest, April 2021*
+          **Nathaniel** (via [Airbnb](bit.ly/CPTownhouseB2)),* April 2021*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
