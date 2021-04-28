@@ -58,7 +58,7 @@ sections:
     title: Featured Properties
     subtitle: PROPERTIES PORTFOLIO
     features:
-      - title: The Big Title For the Feature
+      - title: B2 Townhouse
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
