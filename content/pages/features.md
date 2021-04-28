@@ -135,11 +135,11 @@ sections:
     subtitle: What guests have to say
     grid_items:
       - content: >
-          Very nice place. Complete with amenities. Host was very accommodating
-          and prompt in answering queries.
+          We are very satisfied with the place.
 
 
-          **Nathaniel** (via [Airbnb](bit.ly/CPTownhouseB2)),* April 2021*
+          **Adzmiena** (via [Booking.com](bit.ly/Caramelo_BookingDotCom)),
+          *April 2021*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
