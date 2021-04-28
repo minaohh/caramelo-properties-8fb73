@@ -27,10 +27,9 @@ sections:
         media_width: fifty
       - title: Amazing Amenities
         subtitle: 'Netflix, cable TV, card games, and more'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We believe in providing excellent amenities for **a comfortable and
+          relaxing stay**.
         image: images/freestocks-11SgH7U6TmI-unsplash-2.jpg
         image_alt: People in a conference room
         media_position: left
