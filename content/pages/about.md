@@ -29,12 +29,13 @@ sections:
         subtitle: 'Netflix, cable TV, card games, and more'
         content: >
           We believe in providing excellent amenities for **a comfortable and
-          relaxing stay**. Have a movie marathon on Netflix, play card games
-          (i.e. Uno, Coup, Exploding Kittens, etc.), and enjoy the comfy beds.
+          relaxing stay**. Have a **movie marathon **on Netflix, **play** card
+          games (i.e. Uno, Coup, Exploding Kittens, etc.), and enjoy the comfy
+          beds.
 
 
           From high-grade towels to a variety of entertainment options, we wish
-          our properties to be your home away from home. 
+          our properties to be your home away from home.
         image: images/freestocks-11SgH7U6TmI-unsplash-2.jpg
         image_alt: People in a conference room
         media_position: left
