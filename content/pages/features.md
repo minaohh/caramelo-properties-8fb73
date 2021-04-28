@@ -9,10 +9,16 @@ sections:
     features:
       - title: B2 Townhouse
         subtitle: 'Bugo, Cagayan de Oro City'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Located near [Del Monte Philippines](https://www.delmontephil.com),
+          multiple restaurants, shops, and stores, and <1 hour from
+          [Dahilayan](www.dahilayanforestpark.com), B2 townhouse is spacious,
+          convenient, and complete with amenities.
+
+
+          Book [directly NOW](bit.ly/Caramelo_B2), or book via
+          [Airbnb](bit.ly/CPTownhouseB2) and
+          [Booking.com](bit.ly/Caramelo_BookingDotCom).
         image: images/B2 view.JPG
         image_alt: Top view of business meeting
         media_position: right
