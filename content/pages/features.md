@@ -134,12 +134,13 @@ sections:
     title: Reviews Section
     subtitle: What guests have to say
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Very nice place. Complete with amenities. Host was very accommodating
+          and prompt in answering queries.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Nathaniel** (via [Airbnb](bit.ly/CPTownhouseB2)), *B2 Townhouse
+          Guest, April 2021*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
