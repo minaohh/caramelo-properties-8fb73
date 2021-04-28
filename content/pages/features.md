@@ -132,7 +132,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
+    subtitle: What guests have to say
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
