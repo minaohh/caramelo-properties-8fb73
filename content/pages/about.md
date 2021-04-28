@@ -42,8 +42,8 @@ sections:
       - title: Disinfectant Fogging
         subtitle: For your protection against COVID-19
         content: >
-          The only way you can relax is if you know you are safe, secured, and
-          protected.
+          **The only way you can relax is if you know you are safe, secured, and
+          protected.**
 
 
           We perform disinfectant fogging on the property prior to your arrival
