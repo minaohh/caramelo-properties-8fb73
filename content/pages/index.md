@@ -123,7 +123,7 @@ sections:
           entertained (Netflix, card games), and protected against COVID-19
           (fogging).”
         subtitle: 'Mina, Co-Founder of Caramelo Properties'
-        image: images/mina.png
+        image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
