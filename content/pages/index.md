@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Caramelo Properties
     subtitle: Your home away from home
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      We feature a wide portfolio of residential homes and properties for
+      **rent** in Cagayan de Oro City.
     actions:
       - label: Try Free
         url: /pricing
