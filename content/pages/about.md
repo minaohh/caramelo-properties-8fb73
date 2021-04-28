@@ -41,10 +41,13 @@ sections:
         media_width: fifty
       - title: Disinfectant fogging
         subtitle: For your protection against COVID-19
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The only way you can relax is if you know you are safe, secured, and
+          protected.
+
+
+          We perform disinfectant fogging on the property prior to your arrival
+          for the protection of both the guests and hosts.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
