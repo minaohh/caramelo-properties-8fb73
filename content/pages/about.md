@@ -39,7 +39,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Disinfectant fogging
+      - title: Disinfectant Fogging
         subtitle: For your protection against COVID-19
         content: >
           The only way you can relax is if you know you are safe, secured, and
