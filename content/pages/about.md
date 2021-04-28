@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Caramelo Properties
     subtitle: Learn more about Caramelo Properties
     align: center
     background_color: secondary
