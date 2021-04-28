@@ -2,7 +2,7 @@
 title: Rent Now
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Book Now!
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
