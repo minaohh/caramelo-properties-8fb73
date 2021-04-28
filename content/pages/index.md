@@ -8,7 +8,7 @@ sections:
       We feature a wide portfolio of residential homes and properties for
       **rent** in Cagayan de Oro City.
     actions:
-      - label: Try Free
+      - label: Book Now
         url: /pricing
         style: primary
       - label: Learn More
