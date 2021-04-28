@@ -40,7 +40,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Disinfectant fogging
-        subtitle: Fogg
+        subtitle: For your protection against COVID-19
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
