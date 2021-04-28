@@ -115,9 +115,9 @@ sections:
     features:
       - title: >-
           “Caramelo Properties prioritizes the health and well-being of its
-          guests, ensuring that homes are spacious, guests are entertained
-          (Netflix, card games), amenities are excellent, and guests are
-          protected against COVID-19 (through fogging).”
+          guests, ensuring that homes are spacious with excellent amenities,
+          guests are entertained (Netflix, card games), and guests are protected
+          against COVID-19 (through fogging).”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
