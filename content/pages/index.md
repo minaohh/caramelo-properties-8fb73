@@ -122,7 +122,7 @@ sections:
           guests, ensuring that homes are spacious and comfortable, guests are
           entertained (Netflix, card games), and protected against COVID-19
           (fogging).”
-        subtitle: 'Mina, Co-Founder of Caramelo Properties'
+        subtitle: 'Mino, Co-Founder of Caramelo Properties'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
