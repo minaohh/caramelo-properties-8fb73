@@ -19,10 +19,13 @@ sections:
         media_width: fifty
       - title: Apartment at Laguindingan
         subtitle: COMING SOON
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Upcoming property that's 10 minutes away from Laguindingan
+          International Airport.
+
+
+          The comfy apartment can accommodate 5-10 guests. Stay tuned for
+          updates!
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
