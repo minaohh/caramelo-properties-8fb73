@@ -41,7 +41,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Cards Section
+    title: Amenities
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
