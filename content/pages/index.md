@@ -88,6 +88,7 @@ sections:
         media_position: left
         media_width: fifty
         title: Apartment at Laguindingan
+        subtitle: COMING SOON
       - title: Floating Cottage (Balsa)
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
