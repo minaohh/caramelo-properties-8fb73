@@ -75,10 +75,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - content: "Upcoming property that's\_**10 minutes away from\_*Laguindingan Airport***. The comfy, airconditioned apartment can accommodate 5-10 guests. Stay tuned for updates!\n"
         actions:
           - label: Learn More
             url: /style-guide
