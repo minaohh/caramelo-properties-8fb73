@@ -39,7 +39,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: COVID-19 Safe
+      - title: Disinfectant fogging
         subtitle: Fogg
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
