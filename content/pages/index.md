@@ -113,7 +113,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: “Caramelo Properties ”
+      - title: “Caramelo Properties ensures that homes are spacious”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
