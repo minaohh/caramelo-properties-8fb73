@@ -1,5 +1,5 @@
 ---
-title: Book A Property
+title: Rent
 sections:
   - type: hero_section
     title: Pick Your Plan
