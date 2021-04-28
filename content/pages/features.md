@@ -24,7 +24,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: View Property
             url: '#'
             style: link
             has_icon: false
