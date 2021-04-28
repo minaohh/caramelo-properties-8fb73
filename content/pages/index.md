@@ -114,9 +114,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Caramelo Properties ensures that homes are wide & spacious, guests
-          are entertained (Netflix, card games), amenities are excellent, and
-          guests are protected against COVID-19 (through fogging).”
+          “Caramelo Properties prioritizes the health and well-being of its
+          guests, ensuring that homes are spacious, guests are entertained
+          (Netflix, card games), amenities are excellent, and guests are
+          protected against COVID-19 (through fogging).”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
