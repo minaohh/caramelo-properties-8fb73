@@ -49,7 +49,7 @@ sections:
 
           We perform disinfectant fogging on the property prior to your arrival
           for the protection of both the guests and hosts.
-        image: images/about-1.jpg
+        image: images/IMG_5531.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
