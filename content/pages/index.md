@@ -90,6 +90,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        title: Apartment at Laguindingan
       - title: Floating Cottage (Balsa)
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
