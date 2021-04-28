@@ -135,7 +135,7 @@ sections:
     subtitle: What guests have to say
     grid_items:
       - content: >
-          We are very satisfied with the place.
+          > We are very satisfied with the place.
 
 
           **Adzmiena** (via [Booking.com](bit.ly/Caramelo_BookingDotCom)),
