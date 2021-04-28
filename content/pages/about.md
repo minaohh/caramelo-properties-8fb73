@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Spacious Properties
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: We believe in the importance of space
         content: |+
           We believe in the importance of space.
 
