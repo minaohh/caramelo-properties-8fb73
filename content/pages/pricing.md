@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Book A Property
 sections:
   - type: hero_section
     title: Pick Your Plan
