@@ -21,7 +21,7 @@ sections:
 
 
           Plus, we provide parking spaces for your safety and convenience.
-        image: images/about-5.jpg
+        image: images/B2_42.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
