@@ -3,7 +3,7 @@ title: Rent Now
 sections:
   - type: hero_section
     title: Book Now!
-    subtitle: Optional hero section subtitle
+    subtitle: Rent a property directly or through third-party booking sites
     align: center
     padding_top: large
     padding_bottom: small
