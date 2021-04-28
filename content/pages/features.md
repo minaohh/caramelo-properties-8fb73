@@ -26,7 +26,7 @@ sections:
         actions:
           - label: View Property
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
