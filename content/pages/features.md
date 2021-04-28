@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Apartment at Laguindingan
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: COMING SOON
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
