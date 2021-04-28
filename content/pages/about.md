@@ -11,13 +11,13 @@ sections:
       - title: Spacious Properties
         subtitle: We believe in the importance of space
         content: >
-          Spacious homes mean more personal space and privacy. Nowadays,
+          **Spacious homes mean more personal space and privacy**. Nowadays,
           properties are cramped and people are forced to live a "compact"
           lifestyle.
 
 
           With Caramelo, we make sure there is enough **room to breathe** with
-          enough ventilation to give a more relaxing atmosphere. 
+          enough ventilation to give a more relaxing atmosphere.
 
 
           Plus, we provide parking spaces for your safety and convenience.
