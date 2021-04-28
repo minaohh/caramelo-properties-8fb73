@@ -20,12 +20,9 @@ sections:
       - title: Apartment at Laguindingan
         subtitle: COMING SOON
         content: >
-          Upcoming property that's 10 minutes away from Laguindingan
-          International Airport.
-
-
-          The comfy apartment can accommodate 5-10 guests. Stay tuned for
-          updates!
+          Upcoming property that's **10 minutes away from *Laguindingan
+          Airport***. The comfy apartment can accommodate 5-10 guests. Stay
+          tuned for updates!
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
