@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Properties
 sections:
   - type: hero_section
     title: Explore Properties
