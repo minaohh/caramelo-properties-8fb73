@@ -1,5 +1,5 @@
 ---
-title: Rent
+title: Rent Now
 sections:
   - type: hero_section
     title: Pick Your Plan
