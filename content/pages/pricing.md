@@ -53,7 +53,7 @@ sections:
           properties in the **Properties** tab, or visit the following links:
 
 
-          *   ***B2 Townhouse***** Calendar**:
+          *   **B2 Townhouse Calendar**:
           [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
