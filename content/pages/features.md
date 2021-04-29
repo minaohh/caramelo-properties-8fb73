@@ -107,10 +107,9 @@ sections:
         image_has_padding: true
       - title: Great for Groups
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Our properties are spacious. We're the perfect location for your next
+          family bonding or friends getaway!
         content_align: left
         actions:
           - label: Learn More
