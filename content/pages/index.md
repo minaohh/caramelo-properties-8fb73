@@ -78,7 +78,7 @@ sections:
             no_follow: false
             type: action
         image: images/IMG_4498.jpg
-        image_alt: Feature 1 placeholder image
+        image_alt: B2 Townhouse Bedroom 1
         media_position: right
         media_width: fifty
       - content: "Upcoming property that's\_**10 minutes away from\_*Laguindingan Airport***. The comfy, airconditioned apartment can accommodate 5-10 guests. Stay tuned for updates!\n"
