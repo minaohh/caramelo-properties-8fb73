@@ -69,17 +69,12 @@ sections:
           inform us ahead of time if you are bringing a pet**.
       - title: How many people can you accommodate?
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          The capacity varies from property to property. Check the details of
+          each property for more information.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **B2 Townhouse**: up to 16 guests
         content_align: left
         actions: []
         actions_align: left
