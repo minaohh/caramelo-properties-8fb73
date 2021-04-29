@@ -272,7 +272,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Select the property
+      - title: Check availability
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
