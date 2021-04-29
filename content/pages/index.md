@@ -266,7 +266,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: How to book directly
     actions:
       - label: Join the team
         url: /style-guide
