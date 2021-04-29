@@ -68,10 +68,10 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          To ensure maximum comfort and relaxation our mattresses are at least
+          4", whereas King/Queen beds boast 9" - 11" mattresses with comfortable
+          beddings and comforter.
         content_align: left
         actions:
           - label: Learn More
