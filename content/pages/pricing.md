@@ -62,7 +62,7 @@ sections:
 
 
           *   **B2 Townhouse**: up to 16 guests
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Do you allow pets?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
