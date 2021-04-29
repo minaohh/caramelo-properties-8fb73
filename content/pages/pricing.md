@@ -34,10 +34,19 @@ sections:
 
           *   12-week stays
       - title: Can I book via Townhouse on a third-party booking site?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          There are those who prefer the convenience and security of a
+          third-party side and *don't mind the platform fee*.
+
+
+          **B2 Townhouse is listed on Airbnb and Booking.com**.
+
+
+          *   Airbnb: [bit.ly/CPTownhouseB2](bit.ly/CPTownhouseB2)
+
+
+          *   Booking.com:
+          [bit.ly/Caramelo_BookingDotCom](bit.ly/Caramelo_BookingDotCom)
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
