@@ -120,10 +120,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Caramelo Properties prioritizes the health and well-being of its
-          guests, ensuring that homes are spacious and comfortable, guests are
-          entertained (Netflix, card games), and protected against COVID-19
-          (fogging).”
+          “We prioritize the health and well-being of our guests, ensuring that
+          our homes are spacious and comfortable, guests are entertained
+          (Netflix, card games), and protected against COVID-19 (fogging).”
         subtitle: Caramelo Properties
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
