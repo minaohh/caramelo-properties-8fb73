@@ -83,7 +83,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Book Now
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Our properties are available for long-term and short-term rent
     actions:
       - label: Compare Plans
         url: /pricing
