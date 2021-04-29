@@ -13,7 +13,7 @@ sections:
     actions: []
     grid_items:
       - title: B2 Townhouse
-        subtitle: lorem-ipsum
+        subtitle: 'Spacious 3BR w/ Netflix, Fiber WiFi, '
         title_align: left
         content: >-
           ## Lorem ipsum
