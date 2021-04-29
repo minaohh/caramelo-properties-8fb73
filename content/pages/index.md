@@ -248,10 +248,12 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Rent a property now!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      **Exclusive, safe, and private getaway!**
+
+
+      Rent a property for short-term and long-term stays directly with us to
+      save on platform fees.
     actions:
       - label: Book now
         url: /features
