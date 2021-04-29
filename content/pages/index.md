@@ -132,7 +132,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Featured Amenities
-    subtitle: Grid Section Example
+    subtitle: Enjoy our amenities
     grid_items:
       - title: Section Item 1
         title_align: left
