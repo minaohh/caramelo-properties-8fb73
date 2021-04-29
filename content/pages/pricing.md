@@ -63,10 +63,10 @@ sections:
 
           *   **B2 Townhouse**: up to 16 guests
       - title: Do you allow pets?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          We allow pets for some of our properties. Please note the house rules
+          and guidelines on how to handle pets within the property. **Please
+          inform us ahead of time if you are bringing a pet**.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
