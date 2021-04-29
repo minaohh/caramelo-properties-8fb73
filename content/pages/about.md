@@ -86,7 +86,7 @@ sections:
     content: |
       Our properties are available for long-term and short-term rent
     actions:
-      - label: Compare Plans
+      - label: Rent a Property
         url: /pricing
         style: primary
     align: center
