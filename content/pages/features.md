@@ -68,7 +68,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/parked-car.svg
+        image: images/parked-car-2.png
         image_alt: Item 1 icon
         image_position: top
         image_align: left
