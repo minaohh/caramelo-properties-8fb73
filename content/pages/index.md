@@ -304,11 +304,6 @@ sections:
           *   50% required for reservation
 
           *   Remaining 50% to be paid at least 1 day before check-in date
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
     grid_cols: four
     align: center
     background_color: secondary
