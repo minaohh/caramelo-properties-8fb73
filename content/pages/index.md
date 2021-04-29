@@ -274,7 +274,7 @@ sections:
     grid_items:
       - title: Check availability
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/holidays.svg
         image_position: top
         content: >
           Check the **calendar** of the property of your choice. Ensure your
