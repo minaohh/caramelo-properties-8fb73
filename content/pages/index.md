@@ -286,8 +286,13 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-        content: |
-          asdf
+        content: >
+          After selecting the dates, **fill up the form** with your reservation
+          details and other essential information.
+
+
+          We will send an email and text messaging with the **payment details
+          **(total amount and payment instructions).
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
