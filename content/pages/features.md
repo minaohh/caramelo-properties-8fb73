@@ -160,7 +160,7 @@ sections:
     title: Book Now
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: Book Directly
         url: /pricing
         style: primary
     actions_position: right
