@@ -158,7 +158,14 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Book Now
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Book directly in **3 easy steps**
+
+      1.  Check the **availability** of the chosen property
+
+      2.  Fill up the **reservation** **form**
+
+      3.  Pay via GCash or Bank Transfer to **confirm your booking**
     actions:
       - label: Book Directly
         url: /pricing
