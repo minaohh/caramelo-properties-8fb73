@@ -281,7 +281,7 @@ sections:
           desired dates are not marked as "***Reserved***".
       - title: Fill up the reservation form
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/google-forms.svg
         image_position: top
         content: >
           After selecting the dates, **fill up the form** with your reservation
