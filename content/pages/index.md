@@ -132,7 +132,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Featured Amenities
-    subtitle: Enjoy our amenities
+    subtitle: Enjoy our quality service
     grid_items:
       - title: Section Item 1
         title_align: left
