@@ -7,7 +7,7 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
-excerpt: '6 bookings, 9 nights '
+excerpt: '6 bookings, 9 nights stayed, and over 60 guests in just a month!'
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
