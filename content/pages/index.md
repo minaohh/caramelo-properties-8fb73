@@ -97,10 +97,12 @@ sections:
         subtitle: COMING SOON
       - title: Floating Cottage (Balsa)
         subtitle: COMING SOON
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          An exclusive and private cottage to enjoy a stress-free and COVID-free
+          getaway with your friends and family. 
+
+
+          It's just you, your loved ones, and the sea. 
         actions:
           - label: Learn More
             url: /style-guide
