@@ -332,7 +332,7 @@ sections:
 
       Step 3: Pay via our **payment methods** (GCash, Bank Transfer)
     actions:
-      - label: Button
+      - label: Book Now
         url: /pricing
         style: primary
     actions_position: bottom
