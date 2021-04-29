@@ -54,7 +54,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: Our Office
     grid_items:
       - title: Cagayan de Oro City
         content: |
