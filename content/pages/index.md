@@ -62,7 +62,7 @@ sections:
         subtitle: Cagayan de Oro City
         content: "Located near\_[Del Monte Philippines](https://www.delmontephil.com/), multiple restaurants, shops, and stores, and <1 hour from\_[Dahilayan](https://preview--caramelo-properties-8fb73.stackbit.dev/www.dahilayanforestpark.com), B2 townhouse is spacious, convenient, and complete with amenities.\n\nBook\_[directly NOW](https://preview--caramelo-properties-8fb73.stackbit.dev/bit.ly/Caramelo_B2), or book via\_[Airbnb](https://preview--caramelo-properties-8fb73.stackbit.dev/bit.ly/CPTownhouseB2)\_and\_[Booking.com](https://preview--caramelo-properties-8fb73.stackbit.dev/bit.ly/Caramelo_BookingDotCom).\n"
         actions:
-          - label: Learn More
+          - label: Book Now
             url: /style-guide
             style: primary
             has_icon: true
