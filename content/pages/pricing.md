@@ -69,6 +69,49 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - title: Find us on popular booking sites
+    subtitle: Caramelo Properties on third-party apps
+    actions: []
+    grid_items:
+      - title: Airbnb
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: sixty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/airbnb.svg
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
@@ -148,49 +191,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - title: Find us on popular booking sites
-    subtitle: Caramelo Properties on third-party apps
-    actions: []
-    grid_items:
-      - title: Airbnb
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/airbnb.svg
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Pricing
   description: This is the pricing page
