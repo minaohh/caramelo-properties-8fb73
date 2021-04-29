@@ -33,7 +33,7 @@ sections:
 
 
           *   12-week stays
-      - title: Can I book via Townhouse on a third-party booking site?
+      - title: Can I book the Townhouse on a third-party booking site?
         content: >
           There are those who prefer the convenience and security of a
           third-party side and *don't mind the platform fee*.
