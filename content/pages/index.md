@@ -235,12 +235,13 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          We enjoyed our stay, perfect for group travel. The place is clean and
+          spacious. The host is so accommodating. will definitely recommend the
+          place. Thank you.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Seth,** *Booked via *[*Airbnb*](bit.ly/CPTownhouseB2)*, April 2021*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
