@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     actions: []
     has_border: false
-  - title: lorem-ipsum
+  - title: Choose a property
     subtitle: lorem-ipsum
     actions: []
     grid_items:
