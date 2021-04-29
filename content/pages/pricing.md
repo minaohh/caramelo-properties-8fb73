@@ -55,7 +55,7 @@ sections:
 
           *   **B2 Townhouse Calendar**:
           [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
-      - title: How many people can you accommodate?
+      - title: What are the COVID-19 Travel Protocols in Cagayan de Oro City?
         content: >
           The capacity varies from property to property. Check the details of
           each property for more information.
