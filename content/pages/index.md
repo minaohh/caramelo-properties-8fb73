@@ -332,13 +332,11 @@ sections:
     background_color: none
   - type: cta_section
     title: Booking Options
-    content: >
-      Book directly with us (the most affordable option) and enjoy **NO platform
-      fee**
-
+    content: |
+      **Book directly with us** (the most affordable option)
+      Enjoy **NO platform fee**
 
       Book through [**Airbnb**](bit.ly/CPTownhouseB2)
-
 
       Book via [**Booking.com**](bit.ly/Caramelo_BookingDotCom)
     actions:
