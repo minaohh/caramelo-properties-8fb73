@@ -88,10 +88,9 @@ sections:
         image_has_padding: true
       - title: Netflix & Chill
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Enjoy a movie / TV Series marathon with our Fiber WiFi and free access
+          to Netflix. 
         content_align: left
         actions:
           - label: Learn More
