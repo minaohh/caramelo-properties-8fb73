@@ -334,7 +334,7 @@ sections:
     title: Booking Options
     content: |
       **Book directly with us** (the most affordable option)
-      Enjoy **NO platform fee**
+      Enjoy NO platform fee
 
       Book through [**Airbnb**](bit.ly/CPTownhouseB2)
 
