@@ -205,12 +205,13 @@ sections:
     title: Reviews Section
     subtitle: What our guests are saying
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Very nice place. Complete with amenities. The host was very
+          accommodating and prompt in answering queries.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Nathaniel,** *Booked via *[*Airbnb*](bit.ly/CPTownhouseB2)*, April
+          2021*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
