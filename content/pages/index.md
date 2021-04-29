@@ -291,7 +291,6 @@ sections:
           We will send an email and text messaging with the **payment details**
           (total amount and payment instructions).
       - title: Send Payment to confirm reservation
-        subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
