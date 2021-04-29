@@ -81,7 +81,7 @@ sections:
         image_alt: B2 Townhouse Bedroom 1
         media_position: right
         media_width: fifty
-      - content: "Upcoming property that's\_**10 minutes away from\_*Laguindingan Airport***. The comfy, airconditioned apartment can accommodate 5-10 guests. Stay tuned for updates!\n"
+      - content: "An upcoming property that's\_**10 minutes away from\_*Laguindingan Airport***. Perfect rest house before or after your flight. It's also near our **Floating Cottage**!\n\nThe comfy, airconditioned apartment, complete with bunk beds, TV, internet, and essentials, can accommodate 5-10 guests. Stay tuned for updates!\n"
         actions:
           - label: Learn More
             url: /style-guide
