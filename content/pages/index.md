@@ -27,7 +27,7 @@ sections:
     subtitle: Here's some of our properties
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/charming-turtle.JPG
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
