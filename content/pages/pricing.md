@@ -148,7 +148,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Find us on popular booking sites
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
