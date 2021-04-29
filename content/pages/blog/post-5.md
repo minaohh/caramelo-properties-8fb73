@@ -3,7 +3,7 @@ title: B2 Townhouse
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
-date: 202-06-02
+date: 2021-045-02
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/tutorials.yaml
