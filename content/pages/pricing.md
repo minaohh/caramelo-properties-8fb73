@@ -33,7 +33,7 @@ sections:
 
 
           *   12-week stays
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Can I book via Townhouse on a third-party booking site?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
