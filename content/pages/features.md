@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         image: images/upcoming-apartment.jpg
       - title: Floating Cottage (Balsa)
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: COMING SOON
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
