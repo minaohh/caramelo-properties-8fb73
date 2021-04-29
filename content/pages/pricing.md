@@ -149,7 +149,7 @@ sections:
     has_border: false
     background_color: secondary
   - title: Find us on popular booking sites
-    subtitle: lorem-ipsum
+    subtitle: Caramelo Properties on third-party apps
     actions: []
     grid_items: []
     grid_cols: three
