@@ -84,7 +84,7 @@ sections:
   - type: cta_section
     title: Book Now!
     content: |
-      Our properties are available for long-term and short-term rent
+      #### Our properties are available for long-term and short-term rent
     actions:
       - label: Rent a Property
         url: /pricing
