@@ -152,7 +152,7 @@ sections:
     subtitle: Caramelo Properties on third-party apps
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Airbnb
         subtitle: lorem-ipsum
         title_align: left
         content: >-
