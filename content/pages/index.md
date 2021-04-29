@@ -279,6 +279,8 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
+        content: |
+          d
       - title: Fill up the reservation form
         title_align: center
         image: images/dianne-ameter.jpg
