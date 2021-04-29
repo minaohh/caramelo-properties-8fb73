@@ -305,7 +305,7 @@ sections:
           *   50% required for reservation
 
           *   Remaining 50% to be paid at least 1 day before check-in date
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: secondary
   - type: blog_feed_section
