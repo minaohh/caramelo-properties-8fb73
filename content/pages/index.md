@@ -280,9 +280,6 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Fill up the reservation form
-        subtitle: >-
-          After selecting the dates, fill-up the form with your reservation
-          details and other essential information.
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
