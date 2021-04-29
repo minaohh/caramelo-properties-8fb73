@@ -68,7 +68,6 @@ sections:
           and guidelines on how to handle pets within the property. **Please
           inform us ahead of time if you are bringing a pet**.
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
