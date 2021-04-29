@@ -327,8 +327,10 @@ sections:
 
       Step 1: Check the **availability** of the property from the ***calendar***
 
+
       Step 2: Fill up the **reservation form** with booking details and personal
       details
+
 
       Step 3: Pay via our **payment methods** (GCash, Bank Transfer)
     actions:
