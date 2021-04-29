@@ -56,11 +56,12 @@ sections:
           *   **B2 Townhouse Calendar**:
           [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
       - title: How many people can you accommodate?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          The capacity varies from property to property. Check the details of
+          each property for more information.
+
+
+          *   **B2 Townhouse**: up to 16 guests
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
