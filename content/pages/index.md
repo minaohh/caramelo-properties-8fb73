@@ -136,10 +136,10 @@ sections:
     grid_items:
       - title: Netflix & Chill
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Enjoy a movie / TV Series marathon with our **Fiber WiFi** and free
+          access to **Netflix**. Plus, most of our properties have cable with
+          **HD channels**. Perfect for a relaxing couch potato sesh.
         content_align: left
         actions:
           - label: Learn More
