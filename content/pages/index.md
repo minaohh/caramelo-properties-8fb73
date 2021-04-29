@@ -77,7 +77,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/classic/feature-1.png
+        image: images/IMG_4498.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
