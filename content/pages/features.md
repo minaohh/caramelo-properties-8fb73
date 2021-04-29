@@ -73,13 +73,7 @@ sections:
           4", whereas King/Queen beds boast 9" - 11" mattresses with comfortable
           beddings and comforter.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/bed.png
         image_alt: Item 2 icon
