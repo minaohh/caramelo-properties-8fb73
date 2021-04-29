@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Property Images
     subtitle: Images of our propert
     align: center
     grid_items:
