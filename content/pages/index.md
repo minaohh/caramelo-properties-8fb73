@@ -134,7 +134,7 @@ sections:
     title: Featured Amenities
     subtitle: Enjoy our quality service
     grid_items:
-      - title: Section Item 1
+      - title: Netflix & Chill
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
