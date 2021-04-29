@@ -279,7 +279,7 @@ sections:
         content: >
           Check the **calendar** of the property of your choice. Ensure your
           desired dates are not marked as "***Reserved***".
-        image_has_padding: true
+        image_has_padding: false
       - title: Fill up the reservation form
         title_align: center
         image: images/google-forms.svg
