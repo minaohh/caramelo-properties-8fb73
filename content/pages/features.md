@@ -3,7 +3,7 @@ title: Properties
 sections:
   - type: hero_section
     title: Explore Caramelo Properties
-    subtitle: List of properties for rent
+    subtitle: List of available and upcoming properties for rent
     background_color: primary
   - type: features_section
     features:
