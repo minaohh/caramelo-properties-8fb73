@@ -293,7 +293,7 @@ sections:
         image_width: thirty-three
       - title: Send Payment to confirm reservation
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/cashless-payment.svg
         image_position: top
         content: |
           Send payment via GCash or Bank Transfer when you pay direct. 
