@@ -30,7 +30,7 @@ sections:
       - image: images/charming-turtle.JPG
         image_alt: Contentful logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/bedroom1.jpg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
