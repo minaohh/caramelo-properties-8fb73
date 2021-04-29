@@ -226,12 +226,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Very nice place. Maayos naman ang usapan.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Adzmiena,** *Booked via
+          *[*Booking.com*](bit.ly/Caramelo_BookingDotCom)*, April 2021*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
