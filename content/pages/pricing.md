@@ -47,7 +47,7 @@ sections:
 
           *   Booking.com:
           [bit.ly/Caramelo_BookingDotCom](bit.ly/Caramelo_BookingDotCom)
-      - title: Viverra nam libero justo laoreet sit?
+      - title: How do I know which properties are available?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
