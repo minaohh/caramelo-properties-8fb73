@@ -108,9 +108,9 @@ sections:
       - title: Great for Groups
         title_align: left
         content: >
-          Our properties are spacious and exclusive for your use. We're the
+          Our properties are spacious and exclusive for guests only. We're the
           perfect location for your next bonding and getaway with family and
-          friends! 
+          friends!
         content_align: left
         actions:
           - label: Learn More
