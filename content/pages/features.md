@@ -53,7 +53,7 @@ sections:
     title: Amenities
     subtitle: Each property is unique. Here are the common amenities worth highlighting.
     grid_items:
-      - title: Section Item 1
+      - title: Free P
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
