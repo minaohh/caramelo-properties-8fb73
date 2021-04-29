@@ -82,7 +82,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Book Now
+    title: Book Now!
     content: |
       Our properties are available for long-term and short-term rent
     actions:
