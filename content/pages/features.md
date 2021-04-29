@@ -44,10 +44,7 @@ sections:
         image: images/upcoming-apartment.jpg
       - title: Floating Cottage (Balsa)
         subtitle: COMING SOON
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "An **exclusive and private cottage** to enjoy a stress-free and COVID-free getaway with your friends and family.\_*Balsa*'s are becoming more popular now that more people are looking for a **safe** **vacation** in the 'new normal'.\n\nIt's just you, your loved ones, and the sea.\n"
         image: images/floating-cottage.jpg
         image_alt: Happy co-workers
         media_position: right
