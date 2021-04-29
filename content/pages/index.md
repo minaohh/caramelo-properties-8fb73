@@ -210,7 +210,8 @@ sections:
           accommodating and prompt in answering queries.
 
 
-          **Nathaniel,** Booked [directly](bit.ly/Caramelo_B2)*, April 2021*
+          **Nathaniel,** *Booked via* [Airbnb](bit.ly/CPTownhouseB2)*, April
+          2021*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
