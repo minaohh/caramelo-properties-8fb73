@@ -175,10 +175,10 @@ sections:
         image_has_padding: true
       - title: Perfect for groups
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Our properties are spacious and exclusive for guests only. We're the
+          perfect location for your next bonding and getaway with family and
+          friends!
         content_align: left
         actions:
           - label: Learn More
