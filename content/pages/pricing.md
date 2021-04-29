@@ -48,12 +48,13 @@ sections:
           *   Booking.com:
           [bit.ly/Caramelo_BookingDotCom](bit.ly/Caramelo_BookingDotCom)
       - title: How do I know which properties are available?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Each property has its own calendar. View the availability of the
+          properties in the **Properties** tab, or visit the following links:
+
+
+          *   B2 Townhouse Calendar:
+          [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
