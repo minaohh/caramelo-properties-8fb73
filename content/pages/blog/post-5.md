@@ -7,7 +7,7 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
-excerpt: '6 bookings, '
+excerpt: '6 bookings, 9 nights '
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
