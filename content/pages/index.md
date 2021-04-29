@@ -295,6 +295,16 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
+        content: |
+          Send payment via GCash or Bank Transfer when you pay direct. 
+
+
+
+          Payment terms vary but generally:
+
+          *   50% required for reservation
+
+          *   Remaining 50% to be paid at least 1 day before check-in date
       - title: Hilary Ouse
         subtitle: Operations Manager
         title_align: center
