@@ -319,7 +319,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Book a Property Now!
     content: >
       Book directly with us (the most affordable option) and enjoy **NO platform
       fee**. Book in 3 easy steps:
