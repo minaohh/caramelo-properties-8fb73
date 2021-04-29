@@ -1,6 +1,8 @@
 ---
 title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-subtitle: '6 bookings, 9 nights stayed, and over 60 guests in just a month!'
+subtitle: >-
+  6 bookings, 9 nights stayed, and over 60 guests in just a month! The townhouse
+  is a popular destination in Cagayan de Oro.
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
