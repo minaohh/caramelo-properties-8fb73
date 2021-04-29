@@ -325,10 +325,10 @@ sections:
       fee**. Book in 3 easy steps:
 
 
-      Step 1: Check the **availability** of the property from the ***calendar***
+      Step 1: **Check the availability** of the property from the ***calendar***
 
 
-      Step 2: Fill up the **reservation form** with booking details and personal
+      Step 2: **Fill up the reservation form **with booking details and personal
       details
 
 
