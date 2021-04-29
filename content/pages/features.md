@@ -41,6 +41,7 @@ sections:
           tuned for updates!
         media_position: left
         media_width: fifty
+        image: images/upcoming-apartment.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
