@@ -290,6 +290,7 @@ sections:
 
           We will send an email and text messaging with the **payment details**
           (total amount and payment instructions).
+        image_width: thirty-three
       - title: Send Payment to confirm reservation
         title_align: center
         image: images/hugh-saturation.jpg
