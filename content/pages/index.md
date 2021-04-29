@@ -156,10 +156,9 @@ sections:
         image_has_padding: true
       - title: Free Parking
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Travel safely to any of our properties via a private car. We provide
+          free parking spaces on the property for your convenience.
         content_align: left
         actions:
           - label: Learn More
