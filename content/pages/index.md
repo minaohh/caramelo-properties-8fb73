@@ -33,7 +33,7 @@ sections:
       - image: images/bedroom1.jpg
         image_alt: Netlify logo
         image_align: center
-      - image: images/bedroom2.jpg
+      - image: images/bedroom2_1.jpg
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
