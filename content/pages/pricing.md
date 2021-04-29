@@ -10,7 +10,6 @@ sections:
     actions: []
     has_border: false
   - title: Choose a property
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
