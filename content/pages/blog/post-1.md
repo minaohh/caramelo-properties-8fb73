@@ -7,7 +7,6 @@ date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/general.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
