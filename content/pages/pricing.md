@@ -37,7 +37,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/friendly-olive.JPG
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
