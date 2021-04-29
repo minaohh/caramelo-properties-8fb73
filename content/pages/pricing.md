@@ -13,10 +13,26 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Do you offer discounts for long-term stays?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Yes, we do. The pricing for long-term stays of at least **6 months**
+          is different since the monthly price *does not include utility
+          expenses*.
+
+
+          We offer long-term stays *with* utility and internet expenses
+          included. We offer discounts for the following:
+
+
+          *   1-week stays
+
+
+          *   4-week stays
+
+
+          *   8-week stays
+
+
+          *   12-week stays
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
