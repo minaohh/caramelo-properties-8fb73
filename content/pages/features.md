@@ -2,7 +2,7 @@
 title: Properties
 sections:
   - type: hero_section
-    title: Explore Properties
+    title: Explore Caramelo Properties
     subtitle: List of properties for rent
     background_color: primary
   - type: features_section
