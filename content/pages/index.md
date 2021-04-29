@@ -277,8 +277,8 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
         content: >
-          Check the **calendar** of the property of your choice and ensure it's
-          not marked as "***Reserved***"
+          Check the **calendar** of the property of your choice. Ensure your
+          desired dates are not marked as "***Reserved***".
       - title: Fill up the reservation form
         title_align: center
         image: images/dianne-ameter.jpg
