@@ -19,12 +19,12 @@ sections:
           #### Book the property in 3 easy steps:
 
 
-          1.  **View availability **[here](bit.ly/Caramelo_B2cal). Ensure
+          1.  **View availability** [here](bit.ly/Caramelo_B2cal). Ensure
           desired dates are not marked '*reserved*'.
 
 
-          2.  **Fill up the **[reservation form](bit.ly/Caramelo_B2)**.** Answer
-          all *required* fields. We'll send an email for the final price.
+          2.  **Fill up the** [reservation form](bit.ly/Caramelo_B2). Answer all
+          *required* fields. We'll send an email for the final price.
 
 
           3.  **Send payment**. Follow instructions via text/email regarding
