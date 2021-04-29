@@ -69,7 +69,7 @@ sections:
       - title: Section Item 2
         title_align: left
         content: >
-          To ensure maximum comfort and relaxation our mattresses are at least
+          To ensure maximum comfort and relaxation, our mattresses are at least
           4", whereas King/Queen beds boast 9" - 11" mattresses with comfortable
           beddings and comforter.
         content_align: left
