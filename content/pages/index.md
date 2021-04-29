@@ -332,18 +332,14 @@ sections:
   - type: cta_section
     title: Booking Options
     content: >
-      Book directly with us (the most affordable option) and enjoy **NO platform
-      fee**. Book in 3 easy steps:
+      1.  Book directly with us (the most affordable option) and enjoy **NO
+      platform fee**
 
 
-      Step 1: **Check the availability** of the property from the ***calendar***
+      2.  Book through [**Airbnb**](bit.ly/CPTownhouseB2)
 
 
-      Step 2: Fill up the **reservation form** with booking details and personal
-      details
-
-
-      Step 3: Pay via our **payment methods** (GCash, Bank Transfer)
+      3.  Book via [**Booking.com**](bit.ly/Caramelo_BookingDotCom)
     actions:
       - label: Book Now
         url: /pricing
