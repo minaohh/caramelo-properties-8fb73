@@ -268,7 +268,7 @@ sections:
     title: Book in 3 easy steps
     subtitle: How to book directly with us
     actions:
-      - label: Join the team
+      - label: Book Now
         url: /style-guide
         style: primary
     grid_items:
