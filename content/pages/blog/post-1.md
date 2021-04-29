@@ -3,7 +3,7 @@ title: B2 Townhouse
 subtitle: >-
   6 bookings, 9 nights stayed, and over 60 guests in just a month! The townhouse
   is a popular destination in Cagayan de Oro.
-date: 2020-04
+date: '2020-06-01'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
