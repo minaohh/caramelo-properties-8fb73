@@ -90,7 +90,8 @@ sections:
         title_align: left
         content: >
           Enjoy a movie / TV Series marathon with our Fiber WiFi and free access
-          to Netflix. 
+          to Netflix. Plus, most of our properties have cable with HD channels.
+          Perfect for a relaxing couch potato sesh.
         content_align: left
         actions:
           - label: Learn More
