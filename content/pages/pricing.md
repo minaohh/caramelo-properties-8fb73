@@ -12,7 +12,7 @@ sections:
   - title: Choose a property
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: B2 Townhouse
         subtitle: lorem-ipsum
         title_align: left
         content: >-
