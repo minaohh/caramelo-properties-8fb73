@@ -273,7 +273,9 @@ sections:
         style: primary
     grid_items:
       - title: Check availability
-        subtitle: Co-Founder & CEO
+        subtitle: >-
+          Check the calendar of the property of your choice and ensure it's not
+          marked as "Reserved"
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
