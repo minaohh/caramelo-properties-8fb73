@@ -141,13 +141,7 @@ sections:
           access to **Netflix**. Plus, most of our properties have cable with
           **HD channels**. Perfect for a relaxing couch potato sesh.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/netflix.png
         image_alt: Section item 1 icon
