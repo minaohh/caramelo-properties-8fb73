@@ -265,7 +265,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
+    title: Book in 3 easy steps
     subtitle: How to book directly
     actions:
       - label: Join the team
