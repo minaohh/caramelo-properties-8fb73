@@ -55,10 +55,9 @@ sections:
     grid_items:
       - title: Free Parking
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Travel to our any of our properties via a private car. We provide free
+          parking spaces on the property for your convenience. 
         content_align: left
         actions: []
         actions_align: left
