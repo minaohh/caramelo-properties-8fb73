@@ -223,7 +223,7 @@ sections:
 
 
           **Richard,** *Booked* [directly](bit.ly/Caramelo_B2)*, April 2021*
-        image: images/gustav-purpleson.jpg
+        image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
