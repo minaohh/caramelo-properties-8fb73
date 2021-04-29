@@ -1,8 +1,6 @@
 ---
 title: B2 Townhouse
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: First property available for rent si
 date: '2021-05-01'
 author: content/data/team/gustav-purpleson.yaml
 categories:
