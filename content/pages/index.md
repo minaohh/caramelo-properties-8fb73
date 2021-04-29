@@ -154,13 +154,7 @@ sections:
           Travel safely to any of our properties via a private car. We provide
           free parking spaces on the property for your convenience.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/parking-car.png
         image_alt: Section item 2 icon
