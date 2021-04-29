@@ -237,7 +237,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: "We enjoyed our stay, perfect for group travel. The place is clean and spacious. The host is so accommodating. will definitely recommend the place. Thank you.\n\n**Seth**,** ***Booked via*\_[Airbnb](bit.ly/CPTownhouseB2)*, April 2021*\n"
+      - content: "We enjoyed our stay, perfect for group travel. The place is clean and spacious. The host is so accommodating. will definitely recommend the place. Thank you.\n\n**Seth**, *Booked via*\_[Airbnb](bit.ly/CPTownhouseB2)*, April 2021*\n"
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
