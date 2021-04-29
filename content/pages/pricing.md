@@ -82,6 +82,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    title: Properties for Rent
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
