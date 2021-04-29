@@ -60,7 +60,7 @@ sections:
     features:
       - title: B2 Townhouse
         subtitle: Cagayan de Oro City
-        content: "Spacious 3 bedroom townhouse with Netflix, cable TV, parking (2 cars), and a balcony. With 3 king beds, 1 queen bed, at least 5 mattresses, it can house at most 18 guests. \n\nLocated near\_[Del Monte Philippines](https://www.delmontephil.com/), multiple restaurants, shops, and stores, and <1 hour from\_[Dahilayan](https://preview--caramelo-properties-8fb73.stackbit.dev/www.dahilayanforestpark.com), B2 townhouse is cozy, convenient, and complete with amenities.\n"
+        content: "Spacious 3 bedroom townhouse with Netflix, Fiber WiFi, cable TV, parking (2 cars), and a balcony. With 3 king beds, 1 queen bed, at least 5 mattresses, it can house at most 18 guests.\n\nLocated near\_[Del Monte Philippines](https://www.delmontephil.com/), multiple restaurants, shops, and stores, and <1 hour from\_[Dahilayan](https://preview--caramelo-properties-8fb73.stackbit.dev/www.dahilayanforestpark.com), B2 townhouse is cozy, convenient, and complete with amenities.\n"
         actions:
           - label: Learn More
             url: /style-guide
