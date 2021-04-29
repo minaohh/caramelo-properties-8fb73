@@ -1,5 +1,5 @@
 ---
-title: Rent Now
+title: Book Now
 sections:
   - type: hero_section
     title: Book Now!
