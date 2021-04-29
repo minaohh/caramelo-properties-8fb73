@@ -1,5 +1,5 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: B2 Townhouse
 subtitle: >-
   6 bookings, 9 nights stayed, and over 60 guests in just a month! The townhouse
   is a popular destination in Cagayan de Oro.
