@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Property Images
-    subtitle: Images of our propert
+    subtitle: Here's some of our properties
     align: center
     grid_items:
       - image: images/logo-1.svg
