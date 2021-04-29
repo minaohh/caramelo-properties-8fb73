@@ -288,8 +288,8 @@ sections:
           details and other essential information.
 
 
-          We will send an email and text messaging with the **payment details
-          **(total amount and payment instructions).
+          We will send an email and text messaging with the **payment details**
+          (total amount and payment instructions).
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
