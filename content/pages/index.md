@@ -222,7 +222,7 @@ sections:
           getaway indeed!
 
 
-          **Richard,** *Booked *[*directly*](bit.ly/Caramelo_B2)*, April 2021*
+          **Richard,** *Booked* [directly](bit.ly/Caramelo_B2)*, April 2021*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
