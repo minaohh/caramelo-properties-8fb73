@@ -15,17 +15,36 @@ sections:
       - title: B2 Townhouse
         subtitle: 'Spacious 3BR w/ Netflix, Fiber WiFi, Parking'
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          #### Book the property in 3 easy steps:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          1.  **View Availability **[**here**](bit.ly/Caramelo_B2cal). Ensure
+          desired dates are not marked '*reserved*'.
 
 
-          - Lorem ipsum
+          2.  **Fill up the **[**reservation form**](bit.ly/Caramelo_B2)**.**
+          Answer all *required* fields. We'll send an email for the final price.
 
-          - dolor sit amet
+
+          3.  **Send payment**. Follow instructions via text/email regarding
+          payment information.
+
+
+          #### Questions?
+
+
+          Contact us via:
+
+
+          *   Messenger: [m.me/CarameloProperties](m.me/CarameloProperties)
+
+
+          *   Email: carameloproperties@gmail.com
+
+
+          *   Facebook: [fb.com/CarameloProperties](fb.com/CarameloProperties)
+
         content_align: left
         actions: []
         actions_align: left
