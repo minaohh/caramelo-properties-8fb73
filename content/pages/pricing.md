@@ -74,7 +74,6 @@ sections:
     actions: []
     grid_items:
       - title: Airbnb
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           ![](/images/airbnb.svg)
