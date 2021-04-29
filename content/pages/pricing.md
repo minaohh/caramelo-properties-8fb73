@@ -8,6 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
     actions: []
+    has_border: true
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
