@@ -216,12 +216,13 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          We usually have our cousin's sleepovers at this spacious place.
+          Perfect for movie marathons, bonding, card games. Safe and exclusive
+          getaway indeed!
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Richard,** *Booked *[*directly*](bit.ly/Caramelo_B2)*, April 2021*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
