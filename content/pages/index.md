@@ -231,7 +231,7 @@ sections:
           Very nice place. Maayos naman ang usapan.
 
 
-          ***Adzmiena,** Booked via*
+          **Adzmiena,** *Booked via*
           [Booking.com](bit.ly/Caramelo_BookingDotCom)*, April 2021*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
