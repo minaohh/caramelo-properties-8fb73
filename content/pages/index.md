@@ -266,7 +266,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Book in 3 easy steps
-    subtitle: How to book directly
+    subtitle: How to book directly with us
     actions:
       - label: Join the team
         url: /style-guide
