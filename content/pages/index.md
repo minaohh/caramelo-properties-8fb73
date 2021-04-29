@@ -320,10 +320,19 @@ sections:
     background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Book directly with us (the most affordable option) and enjoy **NO platform
+      fee**. Book in 3 easy steps:
+
+
+      1.  Check the **availability** of the property from the ***calendar***
+
+
+      2.  Fill up the **reservation form** with booking details and personal
+      details
+
+
+      3.  Pay via our **payment methods** (GCash, Bank Transfer)
     actions:
       - label: Button
         url: /pricing
