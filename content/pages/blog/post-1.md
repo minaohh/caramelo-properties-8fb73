@@ -1,8 +1,6 @@
 ---
 title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: '6 bookings, 9 nights stayed, and over 60 guests in just a month!'
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
