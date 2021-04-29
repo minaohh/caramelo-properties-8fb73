@@ -253,7 +253,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: Learn More
+      - label: Book now
         url: /features
         style: secondary
     actions_position: right
