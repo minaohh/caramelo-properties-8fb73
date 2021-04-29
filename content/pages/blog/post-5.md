@@ -1,6 +1,5 @@
 ---
 title: B2 Townhouse
-subtitle: First property available for rent si
 date: '2021-05-01'
 author: content/data/team/gustav-purpleson.yaml
 categories:
