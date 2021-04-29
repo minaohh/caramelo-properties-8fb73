@@ -57,11 +57,11 @@ sections:
           [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
       - title: What are the COVID-19 Travel Protocols in Cagayan de Oro City?
         content: >
-          The capacity varies from property to property. Check the details of
-          each property for more information.
+          Here are the guidelines for traveling to Cagayan de Oro City as of
+          April 2021:
 
 
-          *   **B2 Townhouse**: up to 16 guests
+          ![](https://scontent.fcgm1-1.fna.fbcdn.net/v/t1.6435-9/161640348\_248667663599281\_6269723273956070549\_n.jpg?\_nc_cat=110\&ccb=1-3&\_nc_sid=730e14&\_nc_eui2=AeGGtJwCQo2MCb3fkWPzd1JD_YXSS-bna6L9hdJL5udrougNrvEL6dyOEW7nnpcvKgS0Y91\_KjbKNoe7ZAgrfwRS&\_nc_ohc=LJqdY7tfUFgAX-kzAdf&\_nc_ht=scontent.fcgm1-1.fna\&oh=7e2abc65b2fe20e6da98422514ebd21d\&oe=60AF15DA)
       - title: Do you allow pets?
         content: >
           We allow pets for some of our properties. Please note the house rules
