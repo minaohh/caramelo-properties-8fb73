@@ -45,7 +45,7 @@ sections:
       - image: images/B2_40.jpg
         image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
+      - image: images/parking.jpg
         image_alt: Gridsome logo
         image_align: center
       - image: images/IMG_4522.jpg
