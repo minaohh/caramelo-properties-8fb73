@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About Caramelo Properties
-    subtitle: Our portfolio of properties for rent have three qualities
+    subtitle: Our portfolio of properties for rent have three key qualities
     align: center
     background_color: secondary
   - type: features_section
