@@ -108,8 +108,9 @@ sections:
       - title: Great for Groups
         title_align: left
         content: >
-          Our properties are spacious. We're the perfect location for your next
-          family bonding or friends getaway!
+          Our properties are spacious and exclusive for your use. We're the
+          perfect location for your next bonding and getaway with family and
+          friends! 
         content_align: left
         actions:
           - label: Learn More
