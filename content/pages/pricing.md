@@ -55,7 +55,7 @@ sections:
 
           *   **B2 Townhouse Calendar**:
           [bit.ly/Caramelo_B2cal](bit.ly/Caramelo_B2cal)
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: How many people can you accommodate?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
