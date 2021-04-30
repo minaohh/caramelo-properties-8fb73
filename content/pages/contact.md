@@ -70,7 +70,7 @@ sections:
         content: >
           Like and follow our [Facebook page](fb.com/carameloproperties) for
           more updates on COVID-19 protocols around our properties (as mandated
-          by LGUs), announcements and launches, and promos/sales!!
+          by LGUs), announcements and launches, and **promos**/sales!!
         content_align: center
         actions:
           - label: Like us on Facebook
