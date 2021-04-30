@@ -126,7 +126,7 @@ sections:
         content_align: left
         actions:
           - label: Book via dotproperty
-            url: '#'
+            url: 'http://bit.ly/Caramelo_DotProperty'
             style: secondary
             has_icon: true
             icon: arrow-right
