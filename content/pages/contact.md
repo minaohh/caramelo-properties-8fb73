@@ -89,7 +89,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: contact-form
-    form_action: 'mailto:caramelo'
+    form_action: 'mailto:carameloproperties@gmail.com'
     form_fields:
       - input_type: text
         name: full-name
