@@ -116,8 +116,7 @@ sections:
         name: messenger-link
         label: Messenger Link (optional)
         default_value: m.me/CarameloProperties
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
