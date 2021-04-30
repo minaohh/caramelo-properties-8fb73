@@ -120,7 +120,7 @@ sections:
         type: grid_item
         title: Booking.com
       - title: Dot Property
-        title_align: left
+        title_align: center
         content: >
           ![](https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/10/2017/08/08103139/Logo-DotProperty-Vertical-FlatColor.png)
         content_align: left
