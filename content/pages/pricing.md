@@ -120,7 +120,6 @@ sections:
         type: grid_item
         title: Booking.com
       - title: Dot Property
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
