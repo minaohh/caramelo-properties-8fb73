@@ -72,7 +72,7 @@ sections:
           diam.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Like us on Facebook
             url: fb.com/carameloproperties
             style: link
             has_icon: true
