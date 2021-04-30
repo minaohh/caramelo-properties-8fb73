@@ -38,17 +38,14 @@ sections:
     type: hero_section
     image: images/elite-pineapple.JPG
   - title: Book Now
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Book directly on our website in 3 easy steps!
 
+      1.  Check the availability of your desired dates on our **calendar**
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      2.  Fill up the **reservation form**
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      3.  Send **payment** to confirm your reservation
     actions: []
     actions_position: bottom
     actions_width: fourty
