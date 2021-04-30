@@ -124,7 +124,16 @@ sections:
         content: >
           ![](https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/10/2017/08/08103139/Logo-DotProperty-Vertical-FlatColor.png)
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
