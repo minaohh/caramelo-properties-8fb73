@@ -100,6 +100,7 @@ sections:
             icon: arrow-right
             icon_position: right
             no_follow: true
+            new_window: true
         actions_align: center
         image: images/messenger.svg
         image_alt: Help and support icon
