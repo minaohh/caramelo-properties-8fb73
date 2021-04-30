@@ -92,7 +92,7 @@ sections:
           diam quam nulla.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Message us
             url: /general-enquiries
             style: secondary
             has_icon: true
