@@ -106,7 +106,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: textarea
-        name: lorem-ipsum
+        name: message
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
