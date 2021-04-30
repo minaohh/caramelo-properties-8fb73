@@ -108,7 +108,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: lorem-ipsum
+        default_value: 'Questions, '
         options: []
         is_required: false
         type: form_field
