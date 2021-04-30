@@ -2,7 +2,7 @@
 title: B2 Townhouse
 sections:
   - title: B2 Townhouse
-    subtitle: Cagayan de Oro City
+    subtitle: Exclusive and cozy home
     content: >-
       ## Lorem ipsum
 
