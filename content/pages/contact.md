@@ -103,7 +103,7 @@ sections:
         label: Email Address
         default_value: carameloproperties@gmail.com
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
