@@ -101,7 +101,7 @@ sections:
       - input_type: email
         name: email
         label: Email Address
-        default_value: lorem-ipsum
+        default_value: carameloproperties@gmail.com
         options: []
         is_required: false
         type: form_field
