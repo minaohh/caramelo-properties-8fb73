@@ -111,8 +111,9 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: |
-          Email us directly at carameloproperties@gmail.com
+        content: >
+          For further questions and details, email us directly at
+          carameloproperties@gmail.com
         content_align: center
         actions:
           - label: Email Us
