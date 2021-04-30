@@ -87,9 +87,9 @@ sections:
         image_has_padding: true
       - title: Help & Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          For faster communication, message us on [FB
+          Messenger](m.me/CarameloProperties). Get a reply as soon as possible.
         content_align: center
         actions:
           - label: Message us
