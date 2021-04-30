@@ -75,7 +75,7 @@ sections:
             icon: arrow-left
             icon_position: right
             new_window: true
-            no_follow: false
+            no_follow: true
             type: action
         image: images/IMG_4498.jpg
         image_alt: B2 Townhouse Bedroom 1
