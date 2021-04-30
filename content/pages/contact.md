@@ -81,17 +81,8 @@ sections:
   - title: Questions?
     subtitle: Contact us!
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Fill up the form and you'll get a response within 12 hours.
     content_align: left
     form_position: bottom
     form_width: fifty
