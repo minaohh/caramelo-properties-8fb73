@@ -125,7 +125,7 @@ sections:
           ![](https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/10/2017/08/08103139/Logo-DotProperty-Vertical-FlatColor.png)
         content_align: left
         actions:
-          - label: Book via dotproperty
+          - label: Book via DotProperty
             url: 'http://bit.ly/Caramelo_DotProperty'
             style: secondary
             has_icon: true
