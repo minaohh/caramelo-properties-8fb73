@@ -2,9 +2,7 @@
 title: B2 Townhouse
 sections:
   - title: B2 Townhouse
-    subtitle: >-
-      Spacious 3 Bedroom Townhouse with Netflix, Fiber WiFi, Cable TV, Parking
-      (2 cars), and Balcony
+    subtitle: Cagayan de Oro City
     content: >-
       ## Lorem ipsum
 
