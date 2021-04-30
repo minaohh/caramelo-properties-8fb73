@@ -79,6 +79,7 @@ sections:
             has_icon: true
             icon: facebook
             icon_position: left
+            no_follow: true
         actions_align: center
         image: images/facebook.svg
         image_alt: Partnering and sponsorships icon
