@@ -8,7 +8,11 @@ sections:
       Parking (2 cars), and Balcony
 
 
-      Bugo, Cagayan de Oro City
+      It can accommodate at most 18 guests. Quality amenities + Disinfectant
+      fogging.
+
+
+      *Bugo, Cagayan de Oro City*
     actions:
       - label: lorem-ipsum
         url: '#'
