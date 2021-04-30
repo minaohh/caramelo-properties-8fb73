@@ -78,7 +78,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: Questions?
     subtitle: lorem-ipsum
     title_align: left
     content: >-
