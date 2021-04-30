@@ -17,8 +17,10 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      <iframe
+      src="https://calendar.google.com/calendar/embed?src=carameloproperties%40gmail.com&ctz=Asia%2FManila"
+      style="border: 0" width="800" height="600" frameborder="0"
+      scrolling="no"></iframe>
     media_position: top
     media_width: fifty
     align: left
