@@ -11,6 +11,58 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+  - title: Questions?
+    subtitle: Contact us!
+    title_align: left
+    content: |
+      Fill up the form and you'll get a response within 12 hours.
+    content_align: left
+    form_position: bottom
+    form_width: fifty
+    form_layout: stacked
+    enable_card: false
+    form_id: contact-form
+    form_action: 'mailto:carameloproperties@gmail.com'
+    form_fields:
+      - input_type: text
+        name: full-name
+        label: Full Name
+        default_value: Maria Dela Cruz
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: email
+        name: email
+        label: Email Address
+        default_value: carameloproperties@gmail.com
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: 'Questions, concerns, or any relevant message.'
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: text
+        name: messenger-link
+        label: Messenger Link for faster communication (optional)
+        default_value: m.me/CarameloProperties
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: Submit
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
   - type: grid_section
     grid_items:
       - title: Partnering and Sponsorships
@@ -78,58 +130,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Questions?
-    subtitle: Contact us!
-    title_align: left
-    content: |
-      Fill up the form and you'll get a response within 12 hours.
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: contact-form
-    form_action: 'mailto:carameloproperties@gmail.com'
-    form_fields:
-      - input_type: text
-        name: full-name
-        label: Full Name
-        default_value: Maria Dela Cruz
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: email
-        name: email
-        label: Email Address
-        default_value: carameloproperties@gmail.com
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: 'Questions, concerns, or any relevant message.'
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: messenger-link
-        label: Messenger Link for faster communication (optional)
-        default_value: m.me/CarameloProperties
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: Submit
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   title: Contact
   description: This is the contact page
