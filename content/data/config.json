@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Our Properties",
-                "url": "/features",
+                "url": "/properties",
                 "style": "link"
             },
             {
