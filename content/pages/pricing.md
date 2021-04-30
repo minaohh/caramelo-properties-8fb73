@@ -80,7 +80,7 @@ sections:
         content_align: left
         actions:
           - label: Book via Airbnb
-            url: '#'
+            url: bit.ly/
             style: primary
             has_icon: true
             icon: arrow-right
