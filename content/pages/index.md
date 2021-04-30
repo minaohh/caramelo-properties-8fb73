@@ -97,13 +97,7 @@ sections:
 
 
           It's just you, your loved ones, and the sea. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/pexels-szabolcs-toth-3205909-2.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
