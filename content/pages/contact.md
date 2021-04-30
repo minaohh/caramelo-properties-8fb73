@@ -113,7 +113,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: Messenger Link
+        name: messenger-link
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
