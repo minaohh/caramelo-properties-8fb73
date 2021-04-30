@@ -238,7 +238,7 @@ sections:
     subtitle: How to book directly with us
     actions:
       - label: Book Now
-        url: /style-guide
+        url: /pricing
         style: primary
     grid_items:
       - title: Check availability
