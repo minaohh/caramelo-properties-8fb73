@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     actions: []
     has_border: false
-  - title: Choose a property
+  - title: Choose a property to book
     actions: []
     grid_items:
       - title: B2 Townhouse
