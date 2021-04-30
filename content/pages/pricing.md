@@ -80,7 +80,7 @@ sections:
         content_align: left
         actions:
           - label: Book via Airbnb
-            url: bit.ly/
+            url: bit.ly/CPTownhouseB2
             style: primary
             has_icon: true
             icon: arrow-right
