@@ -92,7 +92,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: Full name
         label: Full Name
         default_value: lorem-ipsum
         options: []
