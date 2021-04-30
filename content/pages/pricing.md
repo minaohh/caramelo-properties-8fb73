@@ -81,7 +81,7 @@ sections:
         actions:
           - label: Book via Airbnb
             url: '#'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
