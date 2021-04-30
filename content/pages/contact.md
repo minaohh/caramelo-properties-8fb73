@@ -89,7 +89,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: contact-form
-    form_action: lorem-ipsum
+    form_action: 'mailto:caramelo'
     form_fields:
       - input_type: text
         name: full-name
