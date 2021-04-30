@@ -96,7 +96,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Airbnb
-      - title_align: left
+      - title_align: center
         content: |
           ![](/images/bookingcom-1.svg)
         content_align: center
