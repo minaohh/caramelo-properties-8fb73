@@ -120,6 +120,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
+            no_follow: true
         actions_align: center
         image: images/gmail.svg
         image_alt: Other queries icon
