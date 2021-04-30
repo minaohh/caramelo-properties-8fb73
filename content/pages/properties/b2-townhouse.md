@@ -8,7 +8,7 @@ sections:
       Parking (2 cars), and Balcony
 
 
-      Located 
+      Bugo, Cagayan de Oro City
     actions:
       - label: lorem-ipsum
         url: '#'
