@@ -10,6 +10,11 @@ sections:
       - title: B2 Townhouse
         subtitle: 'Bugo, Cagayan de Oro City'
         content: >
+          Spacious 3 bedroom townhouse with Netflix, Fiber WiFi, cable TV,
+          parking (2 cars), and a balcony. With 3 king beds, 1 queen bed, at
+          least 5 mattresses, it can house at most 18 guests.
+
+
           Located near [Del Monte Philippines](https://www.delmontephil.com),
           multiple restaurants, shops, and stores, and <1 hour from
           [Dahilayan](www.dahilayanforestpark.com), B2 townhouse is spacious,
