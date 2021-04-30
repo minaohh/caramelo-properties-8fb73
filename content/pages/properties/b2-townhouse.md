@@ -1,7 +1,7 @@
 ---
 title: B2 Townhouse
 sections:
-  - title: lorem-ipsum
+  - title: B2 Townhouse
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
