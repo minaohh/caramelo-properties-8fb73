@@ -110,7 +110,7 @@ sections:
         label: Message
         default_value: 'Questions, concerns, or any message.'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
