@@ -76,7 +76,7 @@ sections:
       - title_align: center
         content: |
           ![](/images/airbnb.svg)
-        content_align: left
+        content_align: center
         actions:
           - label: Book via Airbnb
             url: bit.ly/CPTownhouseB2
