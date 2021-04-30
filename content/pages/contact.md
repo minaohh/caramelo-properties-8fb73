@@ -114,7 +114,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
