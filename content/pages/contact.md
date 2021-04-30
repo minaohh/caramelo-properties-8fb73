@@ -94,7 +94,7 @@ sections:
       - input_type: text
         name: Full name
         label: Full Name
-        default_value: lorem-ipsum
+        default_value: Maria Dela Cruz
         options: []
         is_required: false
         type: form_field
