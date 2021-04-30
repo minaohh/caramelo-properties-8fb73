@@ -76,7 +76,7 @@ sections:
             url: fb.com/carameloproperties
             style: link
             has_icon: true
-            icon: arrow-right
+            icon: facebook
             icon_position: right
         actions_align: center
         image: images/classic/icon-1.svg
