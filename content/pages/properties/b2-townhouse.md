@@ -2,7 +2,9 @@
 title: B2 Townhouse
 sections:
   - title: B2 Townhouse
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Spacious 3 Bedroom Townhouse w/ Netflix, Fiber WiFi, Cable TV, Parking (2
+      cars), & Balcony
     content: >-
       ## Lorem ipsum
 
