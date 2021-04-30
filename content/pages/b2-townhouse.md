@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: B2 Townhouse
 sections: []
 seo:
   title: ''
