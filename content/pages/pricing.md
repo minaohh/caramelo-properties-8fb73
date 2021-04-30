@@ -99,7 +99,7 @@ sections:
       - title_align: left
         content: |
           ![](/images/bookingcom-1.svg)
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
