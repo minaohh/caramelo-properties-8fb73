@@ -69,7 +69,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Book Now
-            url: '#'
+            url: bit.ly/Caramelo_B2cal
             style: primary
             has_icon: false
             icon: arrow-left
