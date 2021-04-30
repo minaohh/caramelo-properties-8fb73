@@ -27,7 +27,7 @@ sections:
         no_follow: false
         type: action
     image_alt: B2 Townhouse Exterior View
-    media_position: top
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
