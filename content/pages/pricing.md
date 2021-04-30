@@ -119,7 +119,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Booking.com
-      - title: lorem-ipsum
+      - title: Dot Property
         subtitle: lorem-ipsum
         title_align: left
         content: >-
