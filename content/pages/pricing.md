@@ -101,7 +101,7 @@ sections:
           ![](/images/bookingcom-1.svg)
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Book via Booking.com
             url: '#'
             style: link
             has_icon: false
