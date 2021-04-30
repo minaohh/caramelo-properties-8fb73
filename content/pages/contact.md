@@ -113,8 +113,6 @@ sections:
         title_align: center
         content: |
           Email us directly at carameloproperties@gmail.com
-
-          Or, visit our Contact page.
         content_align: center
         actions:
           - label: Email Us
