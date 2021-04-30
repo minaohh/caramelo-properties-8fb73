@@ -113,7 +113,7 @@ sections:
           Or, visit our Contact page.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Email Us
             url: /contact
             style: primary
             has_icon: true
