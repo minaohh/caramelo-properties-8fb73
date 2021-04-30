@@ -107,9 +107,10 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Email us directly at carameloproperties@gmail.com.
+
+          Or, visit our Contact page.
         content_align: center
         actions:
           - label: Get Support
