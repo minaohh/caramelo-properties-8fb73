@@ -114,7 +114,7 @@ sections:
         type: form_field
       - input_type: text
         name: messenger-link
-        label: Messenger Link (optional)
+        label: Messenger Link for faster communication (optional)
         default_value: m.me/CarameloProperties
         options: []
         is_required: false
