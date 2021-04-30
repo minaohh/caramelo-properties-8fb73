@@ -66,7 +66,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Comfy Beds
         title_align: left
         content: >
           To ensure maximum comfort and relaxation, our mattresses are at least
