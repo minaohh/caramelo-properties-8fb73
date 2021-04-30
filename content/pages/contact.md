@@ -78,7 +78,7 @@ sections:
             style: primary
             has_icon: true
             icon: facebook
-            icon_position: right
+            icon_position: left
         actions_align: center
         image: images/facebook.svg
         image_alt: Partnering and sponsorships icon
