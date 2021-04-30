@@ -85,7 +85,7 @@ sections:
             has_icon: false
             icon: arrow-left
             icon_position: right
-            new_window: false
+            new_window: true
             no_follow: true
             type: action
         actions_align: left
