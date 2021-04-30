@@ -96,7 +96,7 @@ sections:
         label: Full Name
         default_value: Maria Dela Cruz
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
