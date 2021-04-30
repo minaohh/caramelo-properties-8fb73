@@ -3,17 +3,12 @@ title: B2 Townhouse
 sections:
   - title: B2 Townhouse
     subtitle: Exclusive and cozy home
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ##### Spacious 3 Bedroom Townhouse with Netflix, Fiber WiFi, Cable TV,
+      Parking (2 cars), and Balcony
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      f
     actions:
       - label: lorem-ipsum
         url: '#'
