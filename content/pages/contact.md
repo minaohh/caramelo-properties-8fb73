@@ -65,7 +65,7 @@ sections:
     type: form_section
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
+      - title: Announcements & promos on Facebook
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
