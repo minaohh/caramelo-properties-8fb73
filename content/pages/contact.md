@@ -79,7 +79,7 @@ sections:
             icon: facebook
             icon_position: right
         actions_align: center
-        image: images/classic/icon-1.svg
+        image: images/facebook.svg
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
