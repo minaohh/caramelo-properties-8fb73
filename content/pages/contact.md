@@ -74,7 +74,7 @@ sections:
         actions:
           - label: Like us on Facebook
             url: fb.com/carameloproperties
-            style: link
+            style: primary
             has_icon: true
             icon: facebook
             icon_position: right
