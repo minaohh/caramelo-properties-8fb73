@@ -121,17 +121,8 @@ sections:
         title: Booking.com
       - title: Dot Property
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ![](https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/10/2017/08/08103139/Logo-DotProperty-Vertical-FlatColor.png)
         content_align: left
         actions: []
         actions_align: left
