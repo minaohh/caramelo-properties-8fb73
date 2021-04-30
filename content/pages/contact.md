@@ -89,8 +89,8 @@ sections:
         title_align: center
         content: >
           For faster communication, message us on [FB
-          Messenger](m.me/CarameloProperties). Get a response as soon as
-          possible, or within 1 hour from 9 AM to 6 PM.
+          Messenger](m.me/CarameloProperties). **Get a response as soon as
+          possible**, or within 1 hour from 9 AM to 6 PM.
         content_align: center
         actions:
           - label: Message us
