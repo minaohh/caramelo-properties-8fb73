@@ -26,7 +26,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: B2 Townhouse Exterior View
     media_position: top
     media_width: fifty
     align: left
