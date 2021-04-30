@@ -79,7 +79,7 @@ sections:
           ![](/images/airbnb.svg)
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Book via Airbnb
             url: '#'
             style: link
             has_icon: false
