@@ -108,7 +108,7 @@ sections:
       - title: Other Queries
         title_align: center
         content: |
-          Email us directly at carameloproperties@gmail.com.
+          Email us directly at carameloproperties@gmail.com
 
           Or, visit our Contact page.
         content_align: center
