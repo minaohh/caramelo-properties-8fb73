@@ -73,7 +73,7 @@ sections:
     subtitle: Caramelo Properties on third-party apps
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: |
           ![](/images/airbnb.svg)
         content_align: left
