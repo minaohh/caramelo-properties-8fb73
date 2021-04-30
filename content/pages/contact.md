@@ -67,9 +67,10 @@ sections:
     grid_items:
       - title: Announcements & promos on Facebook
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: >
+          Like and follow our Facebook page for more updates on COVID-19
+          protocols around our properties (as mandated by LGUs), announcements
+          and launches, and promos/sales!!
         content_align: center
         actions:
           - label: Like us on Facebook
