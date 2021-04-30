@@ -79,7 +79,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Questions?
-    subtitle: lorem-ipsum
+    subtitle: Contact us!
     title_align: left
     content: >-
       ## Lorem ipsum
