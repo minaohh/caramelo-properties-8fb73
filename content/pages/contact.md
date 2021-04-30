@@ -108,7 +108,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: 'Questions, or concerns'
+        default_value: 'Questions, concerns, or any message.'
         options: []
         is_required: false
         type: form_field
