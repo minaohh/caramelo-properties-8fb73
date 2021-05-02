@@ -485,7 +485,7 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: ''
+  description: We
   robots: []
   extra: []
   type: stackbit_page_meta
