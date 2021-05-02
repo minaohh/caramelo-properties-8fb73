@@ -56,27 +56,8 @@ sections:
       - title: Bedroom 1
         subtitle: '2 King Beds w/ Balcony, 1 Bathroom w/ Bidet'
         title_align: left
-        content: >
-          *   9'' King-sized mattress that fits 4 adults and 2 kids, or even 6
-          adults if you don't mind the proximity
-
-
-          *   Stylish, wide cabinets, with their custom classic design
-
-
-          *   HDTV with Netflix
-
-
-          *   Vanity area
-
-
-          *   Spacious balcony
-
-
-          *   Private bathrrom w/ bidet
-
-
-          *   Split-type Air Conditioning
+        content: |
+          f
         content_align: left
         actions: []
         actions_align: left
