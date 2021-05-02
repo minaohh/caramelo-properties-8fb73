@@ -64,10 +64,16 @@ sections:
           *   Stylish, wide cabinets, with their custom classic design
 
 
+          *   HDTV with Netflix
+
+
           *   Vanity area
 
 
           *   Spacious balcony
+
+
+          *   Private bathrrom w/ bidet
 
 
           *   Split-type Air Conditioning
