@@ -125,10 +125,11 @@ sections:
         title_align: left
         content: |
           *   62" HDTV w/ Cable & Netflix
-          *   Best for movie marathons with a group + sofa bed + 3-4 mattresses 
+          *   Best for movie marathons with a group + sofa bed + 3-4 mattresses
           *   Wide & spacious living room
           *   Classic-styled furniture and fixtures
           *   Coffee table and work area
+          *   Room-darkening shades
           *   Split-type air conditioning
         content_align: left
         actions: []
