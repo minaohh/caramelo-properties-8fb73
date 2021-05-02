@@ -74,7 +74,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/B2 Promotion.png
-      - title: lorem-ipsum
+      - title: Discounts for long-term stays
         subtitle: lorem-ipsum
         title_align: left
         content: >-
