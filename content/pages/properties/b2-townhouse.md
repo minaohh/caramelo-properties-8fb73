@@ -374,9 +374,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           Very nice place. Complete with amenities. The host was very
           accommodating and prompt in answering queries.
