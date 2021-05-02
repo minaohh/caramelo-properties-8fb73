@@ -17,13 +17,13 @@ sections:
 
           Located near [Del Monte Philippines](https://www.delmontephil.com),
           multiple restaurants, shops, and stores, and <1 hour from
-          [Dahilayan](www.dahilayanforestpark.com), B2 townhouse is spacious,
-          convenient, and complete with amenities.
+          [Dahilayan](https://www.dahilayanforestpark.com), B2 townhouse is
+          spacious, convenient, and complete with amenities.
 
 
-          Book [directly NOW](bit.ly/Caramelo_B2), or book via
-          [Airbnb](bit.ly/CPTownhouseB2) and
-          [Booking.com](bit.ly/Caramelo_BookingDotCom).
+          Book [directly NOW](https://bit.ly/Caramelo_B2), or book via
+          [Airbnb](https://bit.ly/CPTownhouseB2) and
+          [Booking.com](https://bit.ly/Caramelo_BookingDotCom).
         image: images/B2 view.JPG
         image_alt: Top view of business meeting
         media_position: right
