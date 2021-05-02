@@ -87,7 +87,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/B2 Promotion.png
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
