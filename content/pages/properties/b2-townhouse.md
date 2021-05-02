@@ -61,7 +61,7 @@ sections:
           adults if you don't mind the proximity
 
 
-          *   Stylish, wide cabinets, with their custom classic desig
+          *   Stylish, wide cabinets, with their custom classic design
 
 
           *   Vanity area
