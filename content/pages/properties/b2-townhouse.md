@@ -61,8 +61,7 @@ sections:
   - subtitle: BOOKING STATISTICS
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           # 7
 
