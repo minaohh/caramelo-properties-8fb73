@@ -75,24 +75,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/bedroom1_1.jpg
-      - title: Bedroom 2
-        subtitle: '1 King, 1 Queen Bed, 1 Bathroom w/ Bidet'
-        title_align: left
-        content: |
-          *   1 King, 1 Queen bed
-
-          *   Private bathroom w/ bidet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/bedroom2.jpg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
