@@ -203,7 +203,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/terrific-celery.jpg
-      - title: lorem-ipsum
+      - title: Parking Area
         subtitle: lorem-ipsum
         title_align: left
         content: |
