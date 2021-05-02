@@ -353,7 +353,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     subtitle: bit.ly/Caramelo_B2
-  - title: lorem-ipsum
+  - title: Guest Reviews
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
