@@ -21,7 +21,7 @@ sections:
         icon: arrow-right
         icon_position: right
         new_window: true
-        no_follow: false
+        no_follow: true
         type: action
     image_alt: B2 Townhouse Exterior View
     media_position: right
