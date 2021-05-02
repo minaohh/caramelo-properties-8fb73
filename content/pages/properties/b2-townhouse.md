@@ -59,7 +59,6 @@ sections:
     type: hero_section
     image: images/elite-pineapple.JPG
   - title: Quick Info
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Promotions
