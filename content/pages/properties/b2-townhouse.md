@@ -186,7 +186,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/living-room-5.jpg
-      - title: lorem-ipsum
+      - title: Balcony
         subtitle: On the 2nd floor
         title_align: left
         content: |
