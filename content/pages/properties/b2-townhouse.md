@@ -79,11 +79,7 @@ sections:
         subtitle: '1 King, 1 Queen Bed, 1 Bathroom w/ Bidet'
         title_align: left
         content: |
-          *   1 King-sized & 1 Queen-sized Mattress that fits 4-5 adults
-          *   Custom-made cabinets
-          *   Vanity furniture
-          *   Private bathrrom w/ bidet
-          *   Split-type Airconditioning
+          asdfasdf
         content_align: left
         actions: []
         actions_align: left
