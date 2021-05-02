@@ -145,17 +145,11 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   Stove
+          *   Dishes and silverware
+          *   Mugs and glasses
+          *   Cupboard with cookware
         content_align: left
         actions: []
         actions_align: left
