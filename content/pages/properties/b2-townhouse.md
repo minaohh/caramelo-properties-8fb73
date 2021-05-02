@@ -82,7 +82,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/bedroom1_1.jpg
-      - title: lorem-ipsum
+      - title: Bedroom 2
         subtitle: lorem-ipsum
         title_align: left
         content: >-
