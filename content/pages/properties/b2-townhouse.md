@@ -68,7 +68,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/BR1.jpg
+        image: images/bedroom1_1.jpg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
