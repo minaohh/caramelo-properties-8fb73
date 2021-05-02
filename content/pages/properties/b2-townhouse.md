@@ -37,7 +37,7 @@ sections:
         type: action
       - label: Book Directly
         url: bit.ly/Caramelo_B2
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
