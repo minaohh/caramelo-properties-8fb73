@@ -58,7 +58,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - subtitle: BOOKING STATISTICS
+  - subtitle: SINCE APRIL 2021
     actions: []
     grid_items:
       - title_align: left
