@@ -356,8 +356,7 @@ sections:
   - title: Guest Reviews
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >
           > We enjoyed our stay, perfect for group travel. The place is clean
