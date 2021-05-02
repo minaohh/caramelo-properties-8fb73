@@ -173,7 +173,7 @@ sections:
         title_align: left
         content: |
           *   Wooden dining set
-          *
+          *   Decorative flowers 
         content_align: left
         actions: []
         actions_align: left
