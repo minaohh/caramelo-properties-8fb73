@@ -68,6 +68,9 @@ sections:
 
 
           *   Spacious balcony
+
+
+          *   Split-type Air Conditioning
         content_align: left
         actions: []
         actions_align: left
