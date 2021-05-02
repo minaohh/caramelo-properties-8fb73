@@ -92,17 +92,10 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          # **78**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          TOTAL GUESTS
         content_align: left
         actions: []
         actions_align: left
