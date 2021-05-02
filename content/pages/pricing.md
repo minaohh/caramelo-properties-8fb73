@@ -112,7 +112,7 @@ sections:
         content_align: center
         actions:
           - label: Book via Booking.com
-            url: bit.ly/Caramelo_BookingDotCom
+            url: 'https://bit.ly/Caramelo_BookingDotCom'
             style: secondary
             has_icon: true
             icon: arrow-right
