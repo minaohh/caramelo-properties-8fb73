@@ -83,7 +83,7 @@ sections:
         type: grid_item
         image: images/bedroom1_1.jpg
       - title: Bedroom 2
-        subtitle: lorem-ipsum
+        subtitle: '1 King, 1 Queen Bed, 1 Bathroom w/ Bidet'
         title_align: left
         content: >-
           ## Lorem ipsum
