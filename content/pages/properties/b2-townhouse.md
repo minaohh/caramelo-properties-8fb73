@@ -54,7 +54,7 @@ sections:
     actions: []
     grid_items:
       - title: Bedroom 1
-        subtitle: '2 King Beds, 1 Bathroom w/ Bidet'
+        subtitle: '2 King Beds w/ Balcony, 1 Bathroom w/ Bidet'
         title_align: left
         content: "The well-illuminated master's bedroom features two massive 9'' King-sized mattress that fits 4 adults and 2 kids, or even 6 adults if you don't mind the proximity. The stylish, wide cabinets, with their custom classic design, are perfect for both light and heavy packers, and long-term stays.\_\nIt also has a vanity area and a spacious balcony, perfect for early morning stretching/coffee, or late-night talks.\n"
         content_align: left
