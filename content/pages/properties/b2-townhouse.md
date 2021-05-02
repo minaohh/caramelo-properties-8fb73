@@ -75,7 +75,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/marvelous-paprika.jpg
-      - title: lorem-ipsum
+      - title: Bedroom 2
         subtitle: lorem-ipsum
         title_align: left
         content: |
