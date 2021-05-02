@@ -150,6 +150,8 @@ sections:
           *   Dishes and silverware
           *   Mugs and glasses
           *   Cupboard with cookware
+          *   Full-sized refrigerator and freezer
+          *   Hot & cold water dispenser
         content_align: left
         actions: []
         actions_align: left
