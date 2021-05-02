@@ -485,7 +485,10 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: We
+  description: >-
+    We provide a wide portfolio of properties for rent and experiences in the
+    Philippines. Initial properties are located at Cagayan de Oro City & Misamis
+    Oriental.
   robots: []
   extra: []
   type: stackbit_page_meta
