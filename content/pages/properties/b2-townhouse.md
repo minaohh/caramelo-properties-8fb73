@@ -142,7 +142,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/living-room-5.jpg
+        image: images/living-room-0.jpg
       - title: Full Kitchen
         subtitle: Cookware and silverware
         title_align: left
