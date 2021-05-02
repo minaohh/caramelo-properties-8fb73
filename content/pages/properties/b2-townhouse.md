@@ -85,17 +85,12 @@ sections:
       - title: Bedroom 2
         subtitle: '1 King, 1 Queen Bed, 1 Bathroom w/ Bidet'
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   1 King-sized & 1 Queen-sized Mattress that fits 4-5 adults
+          *   Custom-made cabinets
+          *   Vanity furniture
+          *   Private bathrrom w/ bidet
+          *   Split-type Airconditioning
         content_align: left
         actions: []
         actions_align: left
