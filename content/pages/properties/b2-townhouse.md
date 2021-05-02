@@ -17,6 +17,15 @@ sections:
 
       *Cagayan de Oro City*
     actions:
+      - label: Book Directly
+        url: bit.ly/Caramelo_B2
+        style: secondary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: true
+        no_follow: true
+        type: action
       - label: Book via Airbnb
         url: bit.ly/CPTownhouseB2
         style: primary
@@ -28,15 +37,6 @@ sections:
         type: action
       - label: Book via Booking.com
         url: bit.ly/Caramelo_BookingDotCom
-        style: secondary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        new_window: true
-        no_follow: true
-        type: action
-      - label: Book Directly
-        url: bit.ly/Caramelo_B2
         style: secondary
         has_icon: true
         icon: arrow-right
