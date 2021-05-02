@@ -49,7 +49,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - title: Townhouse Photos
+  - title: Townhouse Pictures
     subtitle: Here's what to expect
     actions: []
     grid_items:
