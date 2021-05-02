@@ -90,6 +90,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    title: BOOKING STATISCTICS
   - actions: []
     grid_items:
       - title: Promotions
