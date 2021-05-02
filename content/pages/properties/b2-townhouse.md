@@ -352,7 +352,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    subtitle: bit.ly/
+    subtitle: bit.ly/Caramelo_B2
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
