@@ -24,7 +24,7 @@ sections:
         no_follow: true
         type: action
       - label: Book via Booking.com
-        url: bit.ly/Caramelo_BokkingDotCom
+        url: bit.ly/Caramelo_BookingDotCom
         style: link
         has_icon: false
         icon: arrow-left
