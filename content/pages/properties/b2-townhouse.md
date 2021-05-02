@@ -37,7 +37,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - title: Book Now
+  - title: Book Directly Now
     content: |
       Book directly on our website in 3 easy steps!
 
