@@ -53,7 +53,7 @@ sections:
     subtitle: Here's what to expect
     actions: []
     grid_items:
-      - title: Bedroom 1
+      - title: Master's Bedroom
         subtitle: '2 King Beds, Balcony, HDTV'
         title_align: left
         content: |
