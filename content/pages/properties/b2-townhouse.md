@@ -187,7 +187,7 @@ sections:
         type: grid_item
         image: images/living-room-5.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: On the 2nd floor
         title_align: left
         content: |
           *   Spacious balcony with a mountain view
