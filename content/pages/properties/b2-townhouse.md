@@ -27,7 +27,8 @@ sections:
         no_follow: true
         type: action
       - label: Airbnb
-        url: bit.ly/CPTownhouseB2
+        url: >-
+          https://app.stackbit.com/studio/6088fb73c8b4e3001604706d?previewToken=040581fb-172d-433e-b19e-dc9ba119dda8#/properties/b2-townhousebit.ly/CPTownhouseB2
         style: primary
         has_icon: true
         icon: arrow-right
