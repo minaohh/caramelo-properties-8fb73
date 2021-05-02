@@ -173,7 +173,8 @@ sections:
         title_align: left
         content: |
           *   Wooden dining set
-          *   Decorative flowers 
+          *   Spacious dining set for food, card games, and board games
+          *   Decorative flowers
         content_align: left
         actions: []
         actions_align: left
