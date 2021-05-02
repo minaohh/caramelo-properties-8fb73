@@ -131,6 +131,7 @@ sections:
           *   Coffee table and work area
           *   Room-darkening shades
           *   Split-type air conditioning
+          *   Card games (NEW!)
         content_align: left
         actions: []
         actions_align: left
