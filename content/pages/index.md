@@ -277,7 +277,7 @@ sections:
           *   Remaining 50% to be paid at least 1 day before check-in date
     grid_cols: three
     align: center
-    background_color: secondary
+    background_color: none
     has_border: true
   - type: cta_section
     title: Booking Options
