@@ -4,8 +4,8 @@ sections:
   - title: B2 Townhouse
     subtitle: Exclusive and cozy home
     content: >
-      ##### Spacious 3 Bedroom, 2-Storey Townhouse with Netflix, Fiber WiFi,
-      Cable TV, Parking (2 cars), and Balcony
+      ##### Spacious 3 BR, 3 Bathroom, 2-Storey Townhouse with Netflix, Fiber
+      WiFi, Cable TV, Parking (2 cars), and Balcony
 
 
       It can accommodate at most 18 guests. Quality amenities + Disinfectant
