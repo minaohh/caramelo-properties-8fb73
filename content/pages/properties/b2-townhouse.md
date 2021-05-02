@@ -356,8 +356,7 @@ sections:
   - title: Guest Reviews
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           > We enjoyed our stay, perfect for group travel. The place is clean
           and spacious. The host is so accommodating. will definitely recommend
