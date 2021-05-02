@@ -121,7 +121,7 @@ sections:
         type: grid_item
         image: images/bedroom 3 - 2.jpg
       - title: Spacious Living Room
-        subtitle: lorem-ipsum
+        subtitle: Best for movie marathons w/ a group
         title_align: left
         content: |
           *   62" HDTV w/ Cable & Netflix
