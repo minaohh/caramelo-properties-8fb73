@@ -80,7 +80,7 @@ sections:
         content: |
           # 10
 
-          Nights Stayed
+          NIGHTS STAYED
         content_align: left
         actions: []
         actions_align: left
