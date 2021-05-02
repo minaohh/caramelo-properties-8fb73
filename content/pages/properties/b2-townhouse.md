@@ -2,7 +2,7 @@
 title: B2 Townhouse
 sections:
   - title: B2 Townhouse
-    subtitle: 'Exclusive and cozy home, great for groups'
+    subtitle: 'Exclusive & cozy home, great for groups'
     content: >
       ##### Spacious 3 BR, 3 Bathroom, 2-Storey Townhouse with Netflix, Fiber
       WiFi, Cable TV, Parking (2 cars), and Balcony
