@@ -59,7 +59,9 @@ sections:
         content: |
           *   2 king-sized beds that can fit 4 adults and 2 kids
           *   1 HDTV w/ Netflix
-          *   Spacious balcony 
+          *   Spacious balcony
+          *   Stylish, custom-made cabinets
+          *   Vanity area
           *   Private bathroom w/ bidet
         content_align: left
         actions: []
