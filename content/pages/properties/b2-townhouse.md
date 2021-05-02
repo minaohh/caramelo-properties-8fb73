@@ -12,6 +12,9 @@ sections:
       fogging.
 
 
+      **Book directly below!**
+
+
       *Cagayan de Oro City*
     actions:
       - label: Book via Airbnb
