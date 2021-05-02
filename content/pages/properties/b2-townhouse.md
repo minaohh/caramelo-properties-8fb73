@@ -167,7 +167,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/kitchen 1.jpg
+        image: images/kitchen-1.jpg
       - title: Dining Room
         subtitle: lorem-ipsum
         title_align: left
