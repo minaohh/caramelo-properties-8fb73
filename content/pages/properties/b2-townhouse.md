@@ -18,7 +18,7 @@ sections:
       *Cagayan de Oro City*
     actions:
       - label: Book Directly
-        url: bit.ly/Caramelo_B2
+        url: 'https://bit.ly/Caramelo_B2'
         style: primary
         has_icon: true
         icon: arrow-right
