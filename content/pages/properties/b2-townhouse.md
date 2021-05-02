@@ -376,7 +376,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          Very nice place. Complete with amenities. The host was very
+          > Very nice place. Complete with amenities. The host was very
           accommodating and prompt in answering queries.
 
 
