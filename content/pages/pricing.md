@@ -199,11 +199,11 @@ sections:
           **B2 Townhouse is listed on Airbnb and Booking.com**.
 
 
-          *   Airbnb: [bit.ly/CPTownhouseB2](bit.ly/CPTownhouseB2)
+          *   Airbnb: [bit.ly/CPTownhouseB2](https://bit.ly/CPTownhouseB2)
 
 
           *   Booking.com:
-          [bit.ly/Caramelo_BookingDotCom](bit.ly/Caramelo_BookingDotCom)
+          [bit.ly/Caramelo_BookingDotCom](https://bit.ly/Caramelo_BookingDotCom)
       - title: How do I know which properties are available?
         content: >
           Each property has its own calendar. View the availability of the
