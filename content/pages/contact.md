@@ -96,7 +96,7 @@ sections:
         content_align: center
         actions:
           - label: Message us
-            url: /general-enquiries
+            url: 'https://m.me/CarameloProperties'
             style: secondary
             has_icon: true
             icon: arrow-right
