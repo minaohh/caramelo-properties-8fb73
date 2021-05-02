@@ -48,7 +48,7 @@ sections:
         actions:
           - label: View Property
             url: properties/b2-townhouse
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
