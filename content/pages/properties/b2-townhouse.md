@@ -100,6 +100,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    title: Quick Info
   - title: Townhouse Pictures
     subtitle: Here's what to expect
     actions: []
