@@ -340,7 +340,7 @@ sections:
       Book via [**Booking.com**](bit.ly/Caramelo_BookingDotCom)
     actions:
       - label: Book Now
-        url: 'https://bit.ly/Caramelo_B'
+        url: /
         style: primary
     actions_position: bottom
     align: center
