@@ -37,7 +37,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: properties/
+            url: /properties/b2-townhouse
       - title: Apartment at Laguindingan
         subtitle: COMING SOON
         content: >
