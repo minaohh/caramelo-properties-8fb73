@@ -278,6 +278,7 @@ sections:
     grid_cols: three
     align: center
     background_color: secondary
+    has_border: true
   - type: cta_section
     title: Booking Options
     content: >
