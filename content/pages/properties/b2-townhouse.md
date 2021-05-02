@@ -78,11 +78,16 @@ sections:
       - title: Bedroom 2
         subtitle: '2 Large Beds, Private Bathroom'
         title_align: left
-        content: |
-          *   1 king-sized, 1 queen-sized bed
+        content: >
+          *   1 king-sized, 1 queen-sized bed can accommodate 4-5 adults and 2
+          kids
+
           *   Stylish, custom-made furniture
+
           *   Vanity area
+
           *   Private bathroom w/ bidet
+
           *   Split-type air conditioning
         content_align: left
         actions: []
