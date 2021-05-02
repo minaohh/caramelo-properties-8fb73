@@ -155,6 +155,7 @@ sections:
           *   Dishwashing liquid
           *   Hand soap
           *   Rice cooker
+          *   Fire extinguisher
         content_align: left
         actions: []
         actions_align: left
