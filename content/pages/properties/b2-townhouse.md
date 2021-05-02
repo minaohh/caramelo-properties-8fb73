@@ -101,7 +101,7 @@ sections:
         type: grid_item
         image: images/bedroom2.jpg
       - title: Bedroom 3
-        subtitle: lorem-ipsum
+        subtitle: '4 Mattresses, Ground Floor'
         title_align: left
         content: |
           *   1 single mattress
