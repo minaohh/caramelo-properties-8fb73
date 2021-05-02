@@ -12,7 +12,7 @@ sections:
       fogging.
 
 
-      *Bugo, Cagayan de Oro City*
+      *Cagayan de Oro City*
     actions:
       - label: Book via Airbnb
         url: bit.ly/CPTownhouseB2
