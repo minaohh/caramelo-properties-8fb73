@@ -59,7 +59,7 @@ sections:
     type: hero_section
     image: images/elite-pineapple.JPG
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: BOOKING STATISTICS
     actions: []
     grid_items:
       - title: lorem-ipsum
