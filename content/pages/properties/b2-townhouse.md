@@ -23,7 +23,7 @@ sections:
         new_window: true
         no_follow: true
         type: action
-      - label: lorem-ipsum
+      - label: Book via Booking.com
         url: '#'
         style: link
         has_icon: false
