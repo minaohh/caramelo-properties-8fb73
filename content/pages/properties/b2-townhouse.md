@@ -53,7 +53,7 @@ sections:
     subtitle: Here's what to expect
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Bedroom 1
         subtitle: lorem-ipsum
         title_align: left
         content: |
