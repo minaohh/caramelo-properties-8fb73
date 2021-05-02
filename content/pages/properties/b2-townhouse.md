@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Book via Airbnb
         url: bit.ly/CPTownhouseB2
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
