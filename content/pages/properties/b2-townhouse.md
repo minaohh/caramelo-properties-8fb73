@@ -169,7 +169,7 @@ sections:
         type: grid_item
         image: images/kitchen-1.jpg
       - title: Dining Room
-        subtitle: lorem-ipsum
+        subtitle: For food and games
         title_align: left
         content: |
           *   Wooden dining set
