@@ -15,7 +15,7 @@ sections:
       *Bugo, Cagayan de Oro City*
     actions:
       - label: Book via Airbnb
-        url: '#'
+        url: pbit.ly/C
         style: link
         has_icon: false
         icon: arrow-left
