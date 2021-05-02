@@ -76,7 +76,7 @@ sections:
         type: grid_item
         image: images/marvelous-paprika.jpg
       - title: Bedroom 2
-        subtitle: lorem-ipsum
+        subtitle: '2 Large Beds, Private Bathroom'
         title_align: left
         content: |
           *   1 king-sized, 1 queen-sized bed
