@@ -54,6 +54,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    has_border: true
   - type: grid_section
     title: Amenities
     subtitle: Each property is unique. Here are the common amenities worth highlighting.
