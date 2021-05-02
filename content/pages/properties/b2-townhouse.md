@@ -333,7 +333,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Fill up the Reservation Form
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
