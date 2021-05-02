@@ -204,7 +204,7 @@ sections:
         type: grid_item
         image: images/terrific-celery.jpg
       - title: Parking Area
-        subtitle: lorem-ipsum
+        subtitle: 'Gated parking area, 2 cars'
         title_align: left
         content: |
           *   The parking area fits two vehicles
