@@ -57,7 +57,13 @@ sections:
         subtitle: '2 King Beds w/ Balcony, 1 Bathroom w/ Bidet'
         title_align: left
         content: |
-          f
+          *   2 King Beds
+
+          *   1 HDTV w/ Netflix
+
+          *   Custom-made, spacious cabinets
+
+          *   Vanity area
         content_align: left
         actions: []
         actions_align: left
