@@ -49,7 +49,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - title: lorem-ipsumB
+  - title: Townhouse Photos
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
