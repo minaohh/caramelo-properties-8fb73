@@ -23,6 +23,15 @@ sections:
         new_window: true
         no_follow: true
         type: action
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: B2 Townhouse Exterior View
     media_position: right
     media_width: fifty
