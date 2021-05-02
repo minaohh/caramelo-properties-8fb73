@@ -152,6 +152,9 @@ sections:
           *   Cupboard with cookware
           *   Full-sized refrigerator and freezer
           *   Hot & cold water dispenser
+          *   Dishwashing liquid
+          *   Hand soap
+          *   Rice cooker
         content_align: left
         actions: []
         actions_align: left
