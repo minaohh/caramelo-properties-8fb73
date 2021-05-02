@@ -377,17 +377,12 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Very nice place. Complete with amenities. The host was very
+          accommodating and prompt in answering queries.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Nathaniel**, *booked via Airbnb, April 2021*
         content_align: left
         actions: []
         actions_align: left
