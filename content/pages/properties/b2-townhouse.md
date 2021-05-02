@@ -354,7 +354,6 @@ sections:
     type: hero_section
     subtitle: bit.ly/Caramelo_B2
   - title: Guest Reviews
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
