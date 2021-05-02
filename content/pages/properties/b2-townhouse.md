@@ -359,17 +359,13 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > We enjoyed our stay, perfect for group travel. The place is clean
+          and spacious. The host is so accommodating. will definitely recommend
+          the place. thank you
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Seth**, *booked via Airbnb, April 2021*
         content_align: left
         actions: []
         actions_align: left
