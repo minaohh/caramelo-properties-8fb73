@@ -63,7 +63,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          # 7
+          # **6**
 
           BOOKINGS
         content_align: center
