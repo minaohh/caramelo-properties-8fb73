@@ -143,7 +143,7 @@ sections:
         type: grid_item
         image: images/violet-stegosaurus.jpg
       - title: Full Kitchen
-        subtitle: lorem-ipsum
+        subtitle: Cookware and silverware
         title_align: left
         content: |
           *   Stove
