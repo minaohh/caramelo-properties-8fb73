@@ -63,6 +63,7 @@ sections:
           *   Stylish, custom-made cabinets
           *   Vanity area
           *   Private bathroom w/ bidet
+          *   Split-type air conditioning
         content_align: left
         actions: []
         actions_align: left
