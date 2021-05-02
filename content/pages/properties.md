@@ -30,7 +30,7 @@ sections:
         media_width: fifty
         actions:
           - label: View Property
-            url: '#'
+            url: /properties/
             style: primary
             has_icon: true
             icon: arrow-right
