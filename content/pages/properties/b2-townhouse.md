@@ -70,17 +70,8 @@ sections:
     type: cta_section
   - title: B2 Townhouse Availability
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Ensure your desired dates are not marked as "reserved".
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
