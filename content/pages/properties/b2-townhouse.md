@@ -54,7 +54,7 @@ sections:
     actions: []
     grid_items:
       - title: Bedroom 1
-        subtitle: lorem-ipsum
+        subtitle: '2 King Beds, 1 Bathroom w/ Bidet'
         title_align: left
         content: |
           d
