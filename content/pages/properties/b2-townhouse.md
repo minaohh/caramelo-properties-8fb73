@@ -79,7 +79,9 @@ sections:
         subtitle: '1 King, 1 Queen Bed, 1 Bathroom w/ Bidet'
         title_align: left
         content: |
-          asdfasdf
+          *   1 King, 1 Queen bed
+
+          *   Private bathroom w/ bidet
         content_align: left
         actions: []
         actions_align: left
