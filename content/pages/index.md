@@ -12,7 +12,7 @@ sections:
         url: /pricing
         style: primary
       - label: Learn More
-        url: /features
+        url: /properties/b2-townhouse
         style: secondary
     image: images/hausphotomedia-aRT5UCf2MYY-unsplash.jpg
     image_alt: Hero section placeholder image
