@@ -9,6 +9,7 @@ sections:
     padding_bottom: small
     actions: []
     has_border: false
+    background_color: primary
   - title: Choose a property to book
     actions: []
     grid_items:
