@@ -75,7 +75,6 @@ sections:
         type: grid_item
         image: images/B2 Promotion.png
       - title: Discounts for long-term stays
-        subtitle: lorem-ipsum
         title_align: center
         content: >-
           ## Lorem ipsum
