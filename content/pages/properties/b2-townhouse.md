@@ -352,6 +352,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    subtitle: bit.ly/
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
