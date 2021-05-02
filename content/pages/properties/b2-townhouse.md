@@ -52,29 +52,7 @@ sections:
   - title: Townhouse Photos
     subtitle: Here's what to expect
     actions: []
-    grid_items:
-      - title: Bedroom 1
-        subtitle: '2 King Beds w/ Balcony, 1 Bathroom w/ Bidet'
-        title_align: left
-        content: |
-          *   2 King Beds
-
-          *   1 HDTV w/ Netflix
-
-          *   Custom-made, spacious cabinets
-
-          *   Vanity area
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/bedroom1_1.jpg
+    grid_items: []
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
