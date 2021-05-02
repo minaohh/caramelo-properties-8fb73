@@ -10,16 +10,7 @@ sections:
     actions: []
     has_border: false
   - title: Choose a property to book
-    actions:
-      - label: Learn More
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     grid_items:
       - title: B2 Townhouse
         subtitle: 'Spacious 3BR w/ Netflix, Fiber WiFi, Parking'
