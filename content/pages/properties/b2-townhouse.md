@@ -78,7 +78,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          # 10
+          # **9**
 
           NIGHTS STAYED
         content_align: center
