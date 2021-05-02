@@ -58,8 +58,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - title: Quick Info
-    actions: []
+  - actions: []
     grid_items:
       - title: Promotions
         title_align: center
