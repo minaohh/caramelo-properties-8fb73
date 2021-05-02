@@ -74,7 +74,7 @@ sections:
         content_align: center
         actions:
           - label: Like us on Facebook
-            url: fb.com/carameloproperties
+            url: 'https://fb.com/carameloproperties'
             style: secondary
             has_icon: true
             icon: facebook
