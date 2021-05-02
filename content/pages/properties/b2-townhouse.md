@@ -36,7 +36,7 @@ sections:
         no_follow: true
         type: action
       - label: Book Directly
-        url: bit.ly/
+        url: bit.ly/Caramelo_B2
         style: link
         has_icon: false
         icon: arrow-left
