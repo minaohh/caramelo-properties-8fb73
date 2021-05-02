@@ -50,7 +50,7 @@ sections:
     type: hero_section
     image: images/elite-pineapple.JPG
   - title: Townhouse Photos
-    subtitle: lorem-ipsum
+    subtitle: Here's what to expect
     actions: []
     grid_items: []
     grid_cols: three
