@@ -54,7 +54,7 @@ sections:
     actions: []
     grid_items:
       - title: Master's Bedroom
-        subtitle: '2 King Beds, Balcony, HDTV'
+        subtitle: '2 King Beds, Balcony, HDTV, Private Bathroom'
         title_align: left
         content: |
           *   2 king-sized beds that can fit 4-6 adults and 2 kids
