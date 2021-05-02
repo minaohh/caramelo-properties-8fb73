@@ -58,7 +58,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/elite-pineapple.JPG
-  - title: lorem-ipsum
+  - title: Quick Info
     subtitle: lorem-ipsum
     actions: []
     grid_items:
