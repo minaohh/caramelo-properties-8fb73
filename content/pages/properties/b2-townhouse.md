@@ -54,7 +54,7 @@ sections:
     actions: []
     grid_items:
       - title: Bedroom 1
-        subtitle: lorem-ipsum
+        subtitle: '2 King Beds, Balcony, HDTV'
         title_align: left
         content: |
           *   2 king-sized beds that can fit 4 adults and 2 kids
