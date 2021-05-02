@@ -156,8 +156,8 @@
             //     "new_window": true
             // },
             {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
+                "label": "Facebook",
+                "url": "https://facebook.com/carameloproperties",
                 "style": "link",
                 "has_icon": true,
                 "icon": "vimeo",
