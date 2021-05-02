@@ -123,17 +123,13 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   62" HDTV w/ Cable & Netflix
+          *   Best for movie marathons with a group + sofa bed + 3-4 mattresses 
+          *   Wide & spacious living room
+          *   Classic-styled furniture and fixtures
+          *   Coffee table and work area
+          *   Split-type air conditioning
         content_align: left
         actions: []
         actions_align: left
