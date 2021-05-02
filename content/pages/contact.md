@@ -10,7 +10,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: true
-    background_color: none
+    background_color: secondary
   - title: Questions?
     subtitle: Contact us!
     title_align: left
