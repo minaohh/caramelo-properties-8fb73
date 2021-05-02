@@ -46,7 +46,7 @@ sections:
           *   Facebook: [fb.com/CarameloProperties](fb.com/CarameloProperties)
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn more
             url: '#'
             style: link
             has_icon: false
