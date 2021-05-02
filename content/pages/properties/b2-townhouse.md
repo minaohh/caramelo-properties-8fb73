@@ -490,7 +490,11 @@ seo:
     Philippines. Initial properties are located at Cagayan de Oro City & Misamis
     Oriental.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Caramelo Properties
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
