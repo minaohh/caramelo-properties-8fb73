@@ -70,8 +70,9 @@ sections:
     type: cta_section
   - title: B2 Townhouse Availability
     subtitle: Ensure your desired dates are not marked as "reserved" or "abala".
-    content: |
-      Ensure your desired dates are not marked as "reserved".
+    content: >
+      This calendar shows you the availability of the property. Dates not marked
+      are open for booking.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
