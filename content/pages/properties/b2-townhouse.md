@@ -62,7 +62,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Promotions
         title_align: center
         content_align: left
         actions: []
