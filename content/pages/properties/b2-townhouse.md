@@ -26,7 +26,7 @@ sections:
         new_window: true
         no_follow: true
         type: action
-      - label: Book via Airbnb
+      - label: Airbnb
         url: bit.ly/CPTownhouseB2
         style: primary
         has_icon: true
@@ -35,7 +35,7 @@ sections:
         new_window: true
         no_follow: true
         type: action
-      - label: Book via Booking.com
+      - label: Booking.com
         url: bit.ly/Caramelo_BookingDotCom
         style: secondary
         has_icon: true
