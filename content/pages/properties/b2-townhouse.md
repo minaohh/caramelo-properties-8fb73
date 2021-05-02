@@ -495,6 +495,10 @@ seo:
       value: Caramelo Properties
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/seo-cover-cp-optimized.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
