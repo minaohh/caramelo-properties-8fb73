@@ -56,17 +56,11 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   2 king-sized beds that can fit 4 adults and 2 kids
+          *   1 HDTV w/ Netflix
+          *   Spacious balcony 
+          *   Private bathroom w/ bidet
         content_align: left
         actions: []
         actions_align: left
