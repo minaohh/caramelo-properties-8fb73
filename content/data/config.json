@@ -80,7 +80,7 @@
             },
             {
                 "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "url": "#",
                 "style": "link"
             }
         ],
