@@ -1,4 +1,12 @@
 {
+  "title": "Caramelo Properties",
+  "path_prefix": "/",
+  "layout_type": "boxed",
+  "style": "classic",
+  "palette": "red",
+  "mode": "light",
+  "base_font": "sans-serif",
+  "header": {
     "title": "Caramelo Properties",
     "path_prefix": "/",
     "layout_type": "boxed",
@@ -112,6 +120,6 @@
         ],
         "content": "&copy; Caramelo Properties. All rights reserved."
     },
-    "domain": "https://carameloproperties.netlify.app",
+    "domain": "https://carameloproperties.com",
     "favicon": "images/favicon.ico"
 }
