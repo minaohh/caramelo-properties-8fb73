@@ -23,7 +23,7 @@ layout: page
 ---
 Privacy Policy for Caramelo Properties
 
-At Caramelo Properties, accessible from carameloproperties.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Caramelo Properties and how we use it.
+At Caramelo Properties, accessible from [carameloproperties.com](https://carameloproperties.com), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Caramelo Properties and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
