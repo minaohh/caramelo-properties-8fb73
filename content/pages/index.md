@@ -160,7 +160,7 @@ sections:
           our homes are spacious and comfortable, guests are entertained
           (Netflix, card games), and protected against COVID-19 (fogging).”
         subtitle: Caramelo Properties
-        image: images/brandon-guidelines.png
+        image: images/Caramelo_Logo.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three

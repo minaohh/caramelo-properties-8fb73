@@ -8,119 +8,110 @@
   "base_font": "sans-serif",
   "header": {
     "title": "Caramelo Properties",
-    "path_prefix": "/",
-    "layout_type": "boxed",
-    "style": "classic",
-    "palette": "red",
-    "mode": "light",
-    "base_font": "sans-serif",
-    "header": {
-      "title": "Caramelo Properties",
-      "logo": "images/Caramelo_Logo.png",
-      "logo_alt": "Caramelo Logo",
-      "has_primary_nav": true,
-      "primary_nav_links": [
-        {
-          "label": "Our Properties",
-          "url": "/properties",
-          "style": "link"
-        },
-        {
-          "label": "Book Now",
-          "url": "/pricing",
-          "style": "link"
-        },
-        {
-          "label": "About",
-          "url": "/about",
-          "style": "link"
-        }
-      ],
-      "has_secondary_nav": true,
-      "secondary_nav_links": [
-        {
-          "label": "Contact",
-          "url": "/contact",
-          "style": "link"
-        },
-        {
-          "label": "Book Now",
-          "url": "/pricing",
-          "style": "primary"
-        }
-      ],
-      "has_anncmnt": true,
-      "anncmnt_content": "**B2 Townhouse** is now available for direct booking. [**Learn More**](/properties/b2-townhouse)\n",
-      "anncmnt_align": "left",
-      "anncmnt_is_home_only": true,
-      "anncmnt_has_close": true,
-      "anncmnt_id": "new-features"
-    },
-    "footer": {
-      "logo": "images/Caramelo_Logo.png",
-      "logo_alt": "DIY logo",
-      "has_primary_nav": true,
-      "primary_nav_title": "Company",
-      "primary_nav_links": [
-        {
-          "label": "About",
-          "url": "/about",
-          "style": "link"
-        },
-        {
-          "label": "Contact",
-          "url": "/contact",
-          "style": "link"
-        }
-      ],
-      "has_secondary_nav": true,
-      "secondary_nav_title": "Blog",
-      "secondary_nav_links": [
-        {
-          "label": "News",
-          "url": "#",
-          "style": "link"
-        },
-        {
-          "label": "General",
-          "url": "#",
-          "style": "link"
-        },
-        {
-          "label": "Tutorials",
-          "url": "#",
-          "style": "link"
-        }
-      ],
-      "has_tertiary_nav": true,
-      "tertiary_nav_title": "Legal",
-      "tertiary_nav_links": [
-        {
-          "label": "Terms & Conditions",
-          "url": "/terms-conditions",
-          "style": "link"
-        },
-        {
-          "label": "Privacy Policy",
-          "url": "/privacy-policy",
-          "style": "link"
-        }
-      ],
-      "has_social": true,
-      "social_links": [
-        {
-          "label": "Facebook",
-          "url": "https://facebook.com/carameloproperties",
-          "style": "link",
-          "has_icon": true,
-          "icon": "facebook",
-          "icon_position": "center",
-          "new_window": true
-        }
-      ],
-      "content": "&copy; Caramelo Properties. All rights reserved."
-    },
-    "domain": "https://carameloproperties.com",
-    "favicon": "images/favicon.ico"
-  }
+    "logo": "images/Caramelo_Logo.png",
+    "logo_alt": "Caramelo Logo",
+    "has_primary_nav": true,
+    "primary_nav_links": [
+      {
+        "label": "Our Properties",
+        "url": "/properties",
+        "style": "link"
+      },
+      {
+        "label": "Book Now",
+        "url": "/pricing",
+        "style": "link"
+      },
+      {
+        "label": "About",
+        "url": "/about",
+        "style": "link"
+      }
+    ],
+    "has_secondary_nav": true,
+    "secondary_nav_links": [
+      {
+        "label": "Contact",
+        "url": "/contact",
+        "style": "link"
+      },
+      {
+        "label": "Book Now",
+        "url": "/pricing",
+        "style": "primary"
+      }
+    ],
+    "has_anncmnt": true,
+    "anncmnt_content": "**B2 Townhouse** is now available for direct booking. [**Learn More**](/properties/b2-townhouse)\n",
+    "anncmnt_align": "left",
+    "anncmnt_is_home_only": true,
+    "anncmnt_has_close": true,
+    "anncmnt_id": "new-features"
+  },
+  "footer": {
+    "logo": "images/android-chrome-192x192.png",
+    "logo_alt": "DIY logo",
+    "has_primary_nav": true,
+    "primary_nav_title": "Company",
+    "primary_nav_links": [
+      {
+        "label": "About",
+        "url": "/about",
+        "style": "link"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact",
+        "style": "link"
+      }
+    ],
+    "has_secondary_nav": true,
+    "secondary_nav_title": "Blog",
+    "secondary_nav_links": [
+      {
+        "label": "News",
+        "url": "#",
+        "style": "link"
+      },
+      {
+        "label": "General",
+        "url": "#",
+        "style": "link"
+      },
+      {
+        "label": "Tutorials",
+        "url": "#",
+        "style": "link"
+      }
+    ],
+    "has_tertiary_nav": true,
+    "tertiary_nav_title": "Legal",
+    "tertiary_nav_links": [
+      {
+        "label": "Terms & Conditions",
+        "url": "/terms-conditions",
+        "style": "link"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "/privacy-policy",
+        "style": "link"
+      }
+    ],
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/carameloproperties",
+        "style": "link",
+        "has_icon": true,
+        "icon": "facebook",
+        "icon_position": "center",
+        "new_window": true
+      }
+    ],
+    "content": "&copy; Caramelo Properties. All rights reserved."
+  },
+  "domain": "https://carameloproperties.com",
+  "favicon": "images/favicon.ico"
 }
