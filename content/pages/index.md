@@ -144,7 +144,7 @@ sections:
           getaway with your friends and family. 
 
 
-          It's just you, your loved ones, and the sea. 
+          It's just you, your loved ones, and the sea.
         actions: []
         image: images/pexels-szabolcs-toth-3205909-2.jpg
         image_alt: Feature 3 placeholder image
@@ -348,30 +348,30 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Caramelo Properties - Find properties for rent
+  description: We offer a wide portfolio of spacious and comfy properties for rent in the Philippines. First few properties are in Cagayan de Oro & Misamis Oriental.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Caramelo Properties - Find properties for rent
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: We offer a wide portfolio of spacious and comfy properties for rent in the Philippines, starting with Cagayan de Oro City.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/caramelo-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Caramelo Properties - Find properties for rent
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: We offer a wide portfolio of spacious and comfy properties for rent in the Philippines, starting with Cagayan de Oro City.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/caramelo-preview.png
       relativeUrl: true
 layout: advanced
 ---
